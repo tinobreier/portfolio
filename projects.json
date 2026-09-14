@@ -6,7 +6,7 @@
     },
     "wordmark": "BREIER",
     "contact": {
-      "email": "[E-Mail eintragen]",
+      "email": "tinobreier@outlook.com",
       "links": [
         {
           "label": "GitHub",
@@ -18,8 +18,8 @@
         }
       ],
       "note": {
-        "de": "Unterlagen und ausführliche Projektberichte auf Anfrage.",
-        "en": "Documents and full project reports on request."
+        "de": "",
+        "en": ""
       }
     }
   },
@@ -189,7 +189,7 @@
       "type": "project",
       "color": "#3d6b1b",
       "order": 6,
-      "cover": "images/vr-museum-cover.jpg",
+      "cover": "images/vp1-vr-1.png",
       "gallery": [],
       "de": {
         "title": "Informationsvisualisierung in einem VR-Museum",
@@ -253,7 +253,7 @@
       "type": "project",
       "color": "#14576e",
       "order": 8,
-      "cover": "images/haltestellung-cover.jpg",
+      "cover": "images/haltestellung-2.png",
       "gallery": [],
       "de": {
         "title": "Haltestellung – Standortbasiertes Strategy Mobile Game",
@@ -285,7 +285,7 @@
       "type": "project",
       "color": "#2b6b4f",
       "order": 9,
-      "cover": "images/vr-angeln-cover.jpg",
+      "cover": "images/cr-screen-1.png",
       "gallery": [],
       "de": {
         "title": "VR-Angel-Simulator",
@@ -349,7 +349,7 @@
       "type": "project",
       "color": "#a36208",
       "order": 11,
-      "cover": "images/luebactive-cover.jpg",
+      "cover": "images/luebactive-logo.png",
       "gallery": [],
       "de": {
         "title": "Lübactive – Sportapp zur Bewegung innerhalb und Erkundung von Lübeck",

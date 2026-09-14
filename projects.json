@@ -190,7 +190,7 @@
       "color": "#3d6b1b",
       "order": 6,
       "cover": "images/vp2-vr-1.png",
-      "gallery": [],
+      "gallery": ["images/vp2-vr-2.png", "images/vp2-vr-3.png"],
       "de": {
         "title": "Informationsvisualisierung in einem VR-Museum",
         "tag": "Studienprojekt",
@@ -381,8 +381,8 @@
   "type": "project",
   "color": "#2c68a4",
   "order": 9,
-  "cover": "images/nui-fotocollage.png",
-  "gallery": [],
+  "cover": "images/nui-poster7.png",
+  "gallery": ["images/nui-poster-1.png", "images/nui-poster-2.png", "images/nui-poster-3.png", "images/nui-poster-4.png", "images/nui-poster-5.png", "images/nui-poster-6.png"],
   "de": {
     "title": "Natural User Interface zur einfachen kollaborativen Gestaltung einer Fotocollage",
     "tag": "NUI",

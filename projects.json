@@ -61,7 +61,7 @@
       "type": "project",
       "color": "#bf4008",
       "order": 2,
-      "cover": "images/lehrplattform-guidelines-cover.jpg",
+      "cover": "images/ba-app.png",
       "gallery": [],
       "de": {
         "title": "Interaktive Lehrplattform zur Vermittlung von Design Guidelines",
@@ -93,7 +93,7 @@
       "type": "project",
       "color": "#0f7268",
       "order": 3,
-      "cover": "images/insulin-app-cover.jpg",
+      "cover": "images/ingpsy-2.png",
       "gallery": [],
       "de": {
         "title": "Konzeption und Prototyp einer KI-gestützten App zur Insulindosierung",
@@ -125,7 +125,7 @@
       "type": "project",
       "color": "#a81f56",
       "order": 4,
-      "cover": "",
+      "cover": "images/vp1-system-1.png",
       "gallery": [],
       "de": {
         "title": "Vergleichsstudie zweier Decision-Support-Systeme zum Automation Bias",
@@ -157,7 +157,7 @@
       "type": "project",
       "color": "#6a3fa0",
       "order": 5,
-      "cover": "images/lernvideo-transkript-cover.jpg",
+      "cover": "images/bpro-sketches-2.png",
       "gallery": [],
       "de": {
         "title": "Interaktive Kopplung von Lernvideos und Transkripten für Studierende",
@@ -189,7 +189,7 @@
       "type": "project",
       "color": "#3d6b1b",
       "order": 6,
-      "cover": "images/vp1-vr-1.png",
+      "cover": "images/vp2-vr-1.png",
       "gallery": [],
       "de": {
         "title": "Informationsvisualisierung in einem VR-Museum",
@@ -221,7 +221,7 @@
       "type": "internship",
       "color": "#8c2f1c",
       "order": 7,
-      "cover": "",
+      "cover": "images/mobtis-1.png",
       "gallery": [],
       "de": {
         "title": "Interaktionsdesign · Cross-Reality-Systeme (AR/VR)",
@@ -376,6 +376,48 @@
         "links": []
       }
     },
+{
+  "id": "nui-fotocollage",
+  "type": "project",
+  "color": "#2c68a4",
+  "order": 9,
+  "cover": "images/nui-fotocollage.png",
+  "gallery": [],
+  "de": {
+    "title": "Natural User Interface zur einfachen kollaborativen Gestaltung einer Fotocollage",
+    "tag": "NUI",
+    "kind": "NUI / Cross-Device Interaction",
+    "team": "3er-Team",
+    "scope": "Konzeption & Prototypische Umsetzung eines Natural User Interfaces",
+    "teaser": "Geräteübergreifendes System zur nahtlosen Kollaboration ohne Hürden durch komplexe Setups.",
+    "problem": "Problem: Einschränkendes Sitzen um einen PC, ungleichberechtigte Teilhabe sowie aufwendige Datenübertragung (Kabel/Explorer) erschweren die gemeinsame Kollaboration. / Ziel: Eine natürliche Kommunikationssituation schaffen mit Bewegungsfreiheit, einfachem Einbringen von Fotos und minimalem Setup.",
+    "method": "Einsatz von AprilTag-Markererkennung (WebAssembly/JS), Cross-Device Communication via WebRTC sowie sensomotorische Metaphern (z. B. einfache Foto-Übertragung per Swipe vom Smartphone auf das gemeinsame Tablet).",
+    "result": "Webbasierter Prototyp für die gemeinsame Collage-Erstellung mit räumlicher Awareness (Territoriality) und ad-hoc Konnektivität über Geräte-Grenzen hinweg.",
+    "links": [
+      {
+        "label": "Demo Link",
+        "url": "https://tinobreier.github.io/nui-photocollage/"
+      }
+    ]
+  },
+  "en": {
+  "title": "Natural User Interface for Effortless Collaborative Photo Collage Creation",
+  "tag": "NUI",
+  "kind": "NUI / Cross-Device Interaction",
+  "team": "Team of 3",
+  "scope": "Concept & Prototypical Implementation of a Natural User Interface",
+  "teaser": "Cross-device system for seamless collaboration without the hurdles of complex setups.",
+  "problem": "Problem: Restrictive seating around a single PC, unequal participation, and tedious file transfers (cables/file explorer) hinder joint collaboration. / Goal: Create a natural communication environment with freedom of movement, effortless photo sharing, and minimal setup.",
+  "method": "Use of AprilTag pattern recognition (WebAssembly/JS), cross-device communication via WebRTC, and sensorimotor metaphors (e.g., simple photo transfer via swipe from smartphone to shared tablet).",
+  "result": "Web-based prototype for collaborative collage creation with spatial awareness (territoriality) and ad-hoc connectivity across device boundaries.",
+  "links": [
+    {
+      "label": "Demo Link",
+      "url": "https://tinobreier.github.io/nui-photocollage/"
+    }
+  ]
+}
+},
     {
       "id": "paper-chi-2027",
       "type": "paper",
@@ -419,7 +461,7 @@
       "text": "#f4ece4",
       "accent": "#c98a5e",
       "order": 13,
-      "cover": "images/paper-nordichi-2026-cover.jpg",
+      "cover": "images/nordichi-1.png",
       "gallery": [],
       "de": {
         "title": "A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces",

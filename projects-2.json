@@ -6,20 +6,14 @@
     },
     "wordmark": "BREIER",
     "contact": {
-      "email": "[E-Mail eintragen]",
+      "email": "tinobreier@outlook.com",
       "links": [
-        {
-          "label": "GitHub",
-          "url": ""
-        },
-        {
-          "label": "LinkedIn",
-          "url": ""
-        }
+        { "label": "GitHub", "url": "" },
+        { "label": "LinkedIn", "url": "" }
       ],
       "note": {
-        "de": "Unterlagen und ausführliche Projektberichte auf Anfrage.",
-        "en": "Documents and full project reports on request."
+        "de": "",
+        "en": ""
       }
     }
   },
@@ -61,7 +55,7 @@
       "type": "project",
       "color": "#bf4008",
       "order": 2,
-      "cover": "images/lehrplattform-guidelines-cover.jpg",
+      "cover": "",
       "gallery": [],
       "de": {
         "title": "Interaktive Lehrplattform zur Vermittlung von Design Guidelines",
@@ -93,7 +87,7 @@
       "type": "project",
       "color": "#0f7268",
       "order": 3,
-      "cover": "images/insulin-app-cover.jpg",
+      "cover": "",
       "gallery": [],
       "de": {
         "title": "Konzeption und Prototyp einer KI-gestützten App zur Insulindosierung",
@@ -157,7 +151,7 @@
       "type": "project",
       "color": "#6a3fa0",
       "order": 5,
-      "cover": "images/lernvideo-transkript-cover.jpg",
+      "cover": "",
       "gallery": [],
       "de": {
         "title": "Interaktive Kopplung von Lernvideos und Transkripten für Studierende",
@@ -189,7 +183,7 @@
       "type": "project",
       "color": "#3d6b1b",
       "order": 6,
-      "cover": "images/vr-museum-cover.jpg",
+      "cover": "",
       "gallery": [],
       "de": {
         "title": "Informationsvisualisierung in einem VR-Museum",
@@ -253,10 +247,10 @@
       "type": "project",
       "color": "#14576e",
       "order": 8,
-      "cover": "images/haltestellung-cover.jpg",
+      "cover": "",
       "gallery": [],
       "de": {
-        "title": "Haltestellung – Standortbasiertes Strategy Mobile Game",
+        "title": "»Haltestellung« – Standortbasiertes Strategy Mobile Game",
         "tag": "GameJam",
         "kind": "GameJam",
         "team": "3er-Team",
@@ -268,7 +262,7 @@
         "links": []
       },
       "en": {
-        "title": "Haltestellung – A Location-Based Strategy Mobile Game",
+        "title": "»Haltestellung« – A Location-Based Strategy Mobile Game",
         "tag": "GameJam",
         "kind": "GameJam",
         "team": "Team of 3",
@@ -285,7 +279,7 @@
       "type": "project",
       "color": "#2b6b4f",
       "order": 9,
-      "cover": "images/vr-angeln-cover.jpg",
+      "cover": "",
       "gallery": [],
       "de": {
         "title": "VR-Angel-Simulator",
@@ -349,10 +343,10 @@
       "type": "project",
       "color": "#a36208",
       "order": 11,
-      "cover": "images/luebactive-cover.jpg",
+      "cover": "",
       "gallery": [],
       "de": {
-        "title": "Lübactive – Sportapp zur Bewegung innerhalb und Erkundung von Lübeck",
+        "title": "»LübActive« – Sportapp zur Bewegung innerhalb und Erkundung von Lübeck",
         "tag": "Studienprojekt",
         "kind": "Studienprojekt",
         "team": "6er-Team",
@@ -364,7 +358,7 @@
         "links": []
       },
       "en": {
-        "title": "Lübactive – A Sports App for Moving Through and Exploring Lübeck",
+        "title": "»LübActive« – A Sports App for Moving Through and Exploring Lübeck",
         "tag": "Course Project",
         "kind": "Course Project",
         "team": "Team of 6",
@@ -419,7 +413,7 @@
       "text": "#f4ece4",
       "accent": "#c98a5e",
       "order": 13,
-      "cover": "images/paper-nordichi-2026-cover.jpg",
+      "cover": "",
       "gallery": [],
       "de": {
         "title": "A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces",

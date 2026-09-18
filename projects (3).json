@@ -37,8 +37,8 @@
         "kind": "Abschlussarbeit (M.Sc.)",
         "team": "Solo",
         "scope": "Vollständiger Prozess: Studienplanung, Rekrutierung, qualitative Auswertung, Aufstellung von Design-Hilfen, Rückbindung an die Literatur",
-        "teaser": "Co-Design-Studie mit professionellen Designern zur Ableitung von Gestaltungshilfen für neuartige Cross-Reality-Systeme.",
-        "problem": "Transitional Interfaces können die Vorteile von Realität, AR & VR kombinieren, bringen jedoch neuartige UX-Probleme & Reibungspunkte mit sich, für die bislang praxisnahe Gestaltungshilfen fehlen.",
+        "teaser": "Co-Design-Studie mit professionellen Designern zur Ableitung von Design Guidance für Transitional Interfaces.",
+        "problem": "Transitional Interfaces haben das Potenzial, die Vorteile von Realität, AR und VR zu kombinieren, indem sie Nutzern Übergänge zwischen diesen Realitätsgraden erlauben. Genau an diesen Übergängen entstehen jedoch Reibungspunkte und neuartige UX-Herausforderungen, für die Designern bislang praxisnahe Design-Richtlinien fehlen.",
         "method": "Planung und Durchführung einer Co-Design-Studie sowie Auswertung und Interpretation der Daten mittels Thematic Analysis und Affinity Diagramming.",
         "result": "Aufstellung konkreter Design Guidance und empirisch fundiertes Reflektieren eines Frameworks für Cross-Reality Transitional Interfaces.",
         "links": [],
@@ -46,13 +46,9 @@
           {
             "label": "Team",
             "value": "Solo"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "Cross-Reality Designer"
           }
         ],
-        "role": "Vollständiger Prozess: Studienplanung, Rekrutierung, qualitative Auswertung, Aufstellung von Designhilfen, Rückbindung an die Literatur",
+        "role": "Vollständiger Prozess: Studienplanung, Rekrutierung, qualitative Auswertung, Aufstellung von Design-Hilfen, Rückbindung an die Literatur",
         "goal": "An das Expertenwissen professioneller AR/VR Designer anknüpfen.",
         "process": [
           {
@@ -65,15 +61,15 @@
           },
           {
             "label": "Durchführung",
-            "note": "Acht Co-Design-Sessions"
+            "note": "Co-Design-Sessions"
           },
           {
-            "label": "Qualitative Auswertung",
+            "label": "Auswertung",
             "note": "Thematic Analysis, Affinity Diagramming"
           },
           {
             "label": "Design Guidance",
-            "note": "Rückbindung an Literatur"
+            "note": "Rückbindung an die Literatur"
           }
         ],
         "methods": [
@@ -83,18 +79,9 @@
         ],
         "sample": "",
         "architecture": "",
-        "outcome": "Konkrete Design Guidance & empirisch fundiertes Reflektieren eines Frameworks für die Gestaltung von Transitional Interfaces.",
-        "finding": "Um existierende Reibungspunkte zu verringern, ist das Zwischenspiel dreier Phasen besonders wichtig, die im behandelten Framework beschrieben werden.",
-        "evidence": [
-          {
-            "value": "N = 16",
-            "label": "Teilnehmer (Designer)"
-          },
-          {
-            "value": "164",
-            "label": "Designideen untersucht"
-          }
-        ],
+        "outcome": "Aufstellung konkreter Design Guidance und empirisch fundiertes Reflektieren eines Frameworks für Cross-Reality Transitional Interfaces.",
+        "finding": "",
+        "evidence": [],
         "citation": "",
         "awards": [],
         "iteration": [],
@@ -172,7 +159,7 @@
         "team": "Solo",
         "scope": "Vollständiger Prozess: Marktanalyse, Konzept, Prototyping, Web-Entwicklung, Evaluation, Verbesserungsansätze",
         "teaser": "Mediendidaktisches, interaktives Web-Tool zur Vermittlung von Guidelines für die Mensch-KI-Interaktion in gemeinwohlorientierten Projekten.",
-        "problem": "KI bietet großes Potenzial für den Gemeinwohl-Sektor, jedoch fehlen vielen Akteuren Kenntnisse, um die Interaktion zwischen Mensch und KI angemessen und menschzentriert zu gestalten.",
+        "problem": "KI bietet großes Potenzial für den Gemeinwohl-Sektor, doch Leuten fehlt Kenntnis, um die Interaktion zwischen Mensch und KI angemessen, menschzentriert zu gestalten.",
         "method": "Menschzentrierter Gestaltungsprozess (UCD) über zwei Prototypen-Iterationen. Summative empirische Evaluation mit 40 Probanden anhand standardisierter Fragebögen (SUS, UX) und eines Mixed Between-Within ANOVA Designs.",
         "result": "Ein interaktives »Dos and Don'ts«-Tool zur Stärkung von KI-Kompetenzen unter Berücksichtigung mediendidaktischer Prinzipien, inklusive Nachweis einer hohen Gebrauchstauglichkeit und positiven UX.",
         "links": [
@@ -189,10 +176,6 @@
           {
             "label": "Tools",
             "value": "Figma, React, R"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "Mitglieder von Gemeinwohl-Projekten"
           }
         ],
         "role": "Vollständiger Prozess: Analysen, Konzept, Prototyping, formative Evaluation, Web-Entwicklung, summative Evaluation",
@@ -236,8 +219,8 @@
         ],
         "sample": "",
         "architecture": "",
-        "outcome": "Interaktives »Dos and Don'ts«-Tool zur Stärkung von KI-Kompetenz unter Berücksichtigung mediendidaktischer Prinzipien.",
-        "finding": "Systematisches Einbeziehen von Analysen, Modellen und Heuristiken ist die Grundlage hoher Gebrauchstauglichkeit; für eine positive UX und nachhaltigen Lernerfolg sind darüber hinaus jedoch weitere Faktoren relevant.",
+        "outcome": "Interaktives »Dos and Don'ts«-Tool zur Stärkung der KI-Kompetenz unter Berücksichtigung mediendidaktischer Prinzipien.",
+        "finding": "Systematisches Einbeziehen von Analysen, Modellen und Heuristiken ist die Grundlage hoher Gebrauchstauglichkeit; für exzellente UX oder echten Lernerfolg braucht es jedoch mehr.",
         "evidence": [
           {
             "value": "40",
@@ -396,10 +379,6 @@
           {
             "label": "Tools",
             "value": "Papier, Figma, Miro"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "Diabetiker"
           }
         ],
         "role": "App- & Interaktionsdesign, Prototyping, interdisziplinäre Workshop-Moderation",
@@ -579,10 +558,6 @@
           {
             "label": "Team",
             "value": "3er-Team"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "Arbeitsvermittler"
           }
         ],
         "role": "Literatur-Fundament, Konzeption & Realisierung zweier Prototypen, Vergleichsstudie, quantitative Datenanalyse",
@@ -742,7 +717,7 @@
       "type": "project",
       "color": "#6a3fa0",
       "order": 5,
-      "cover": "images/bpro-poster-2.png",
+      "cover": "images/bpro-poster-1.png",
       "gallery": [],
       "de": {
         "title": "Interaktive Kopplung von Lernvideos und Transkripten für Studenten",
@@ -759,10 +734,6 @@
           {
             "label": "Team",
             "value": "3er-Team"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "Schüler/Studenten"
           }
         ],
         "role": "Vollständiger Prozess: Anforderungsanalyse, Prototyping (Desktop & Mobile), Web-Implementierung, empirische Evaluation",
@@ -800,7 +771,7 @@
         "sample": "",
         "architecture": "",
         "outcome": "Zwei Darstellungsvarianten, beide mit exzellenter Gebrauchstauglichkeit, sowie Integrationsperspektive für Lernplattformen wie Moodle.",
-        "finding": "Beide Varianten zeigten eine hohe Gebrauchs- und Praxistauglichkeit, verlangen den Lernenden kognitiv jedoch vergleichsweise viel ab.",
+        "finding": "Beide Varianten überzeugen durch hohe Gebrauchs- und Praxistauglichkeit, verlangen den Lernenden kognitiv jedoch noch recht viel ab.",
         "evidence": [
           {
             "value": "83.5 / 85.8",
@@ -827,16 +798,12 @@
         "awards": [],
         "iteration": [
           {
-            "src": "images/bpro-sketches-3.png",
-            "caption": "Sketches (Grobe Ansätze)"
-          },
-          {
-            "src": "images/bpro-sketches-2.png",
-            "caption": "Sketches (Feinere Abläufe)"
-          },
-          {
             "src": "images/bpro-poster-2.png",
-            "caption": "Zwei Systemvarianten"
+            "caption": "Beide Darstellungsvarianten"
+          },
+          {
+            "src": "images/bpro-poster-3.png",
+            "caption": "Prozess"
           }
         ],
         "processText": "Menschzentrierter Gestaltungsprozess (UCD) zu zwei Darstellungsvarianten (horizontal & vertikal) "
@@ -922,7 +889,7 @@
       "type": "project",
       "color": "#7d1f3d",
       "order": 6,
-      "cover": "images/motemci-poster-design.png",
+      "cover": "",
       "gallery": [],
       "layout": "A",
       "de": {
@@ -931,58 +898,19 @@
           {
             "label": "Team",
             "value": "4er-Team"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "UI/UX Designer"
           }
         ],
-        "process": [
-          {
-            "label": "Erfahrungsberichte",
-            "note": "Herausforderungen & Anforderungen"
-          },
-          {
-            "label": "App-Tests & -Vergleiche",
-            "note": "Existierende Technologie"
-          },
-          {
-            "label": "Mini-Interview-Studie",
-            "note": "Bestreben, Motivation, Strategien"
-          },
-          {
-            "label": "Rückbindung an Literatur",
-            "note": "Ingenieurpsychologische Modelle"
-          },
-          {
-            "label": "Design Guidelines",
-            "note": "Aufstellung der Richtlinien"
-          }
-        ],
-        "processText": "Motivationspsychologische Methoden als Fundament (Zielsetzungstheorie, Nudging, Prospect Theory, Selbstbestimmungstheorie)",
+        "process": [],
+        "processText": "",
         "methods": [
+          "Triangulierung von Datenquellen",
           "Ingenieurpsychologische Modelle",
-          "Interview-Studie",
-          "Erfahrungsberichte",
-          "App-Vergleiche"
+          "Design Guidelines"
         ],
         "sample": "",
         "architecture": "",
-        "finding": "Probanden waren primär monetär motiviert, scheitern jedoch oft an Bequemlichkeit & Komfort, weshalb sie sich automatische Unterstützungsfunktionen wünschten.",
-        "evidence": [
-          {
-            "value": "N = 5",
-            "label": "Teilnehmer (Mini-Interviews)"
-          },
-          {
-            "value": "3",
-            "label": "Herausforderungen"
-          },
-          {
-            "value": "3",
-            "label": "Anforderungen"
-          }
-        ],
+        "finding": "",
+        "evidence": [],
         "citation": "",
         "awards": [],
         "iteration": [],
@@ -991,13 +919,13 @@
         "kind": "Studienprojekt",
         "team": "4er-Team",
         "scope": "Schwerpunkt: Triangulierung von Datenquellen und Aufstellen von Design Guidelines basierend auf ingenieurpsychologischen Erkenntnissen und Modellen",
-        "role": "Aggregation & Triangulierung von Datenquellen,  Durchführung Interview-Studie, Aufstellung Design Guidelines",
+        "role": "Triangulierung von Datenquellen · Aufstellen von Design Guidelines",
         "teaser": "Länger mit einer Akkuladung auskommen durch systemseitige Informationen, Features und Nudges.",
-        "problem": "Hohe Energieverbrauche/-kosten und leergehende Akkus steigen bei anspruchsvollerer Hardware & Software.",
-        "goal": "Nutzern Möglichkeiten bieten, ihr Smartphone energieeffizienter und bewusster zu nutzen.",
+        "problem": "Hohe Energieverbrauche/-kosten und leergehende Akkus steigen bei anspruchsvollerer Hardware.",
+        "goal": "Leuten Möglichkeiten bieten, energieeffizienter und kontrollierter ihr Smartphone zu bedienen.",
         "method": "",
         "result": "",
-        "outcome": "Sechs konkrete Gestaltungsrichtlinien für UI/UX Designer basierend auf aggregierten Erkenntnissen der Motivationspsychologie & eigenen empirischen Untersuchungen."
+        "outcome": ""
       },
       "en": {
         "links": [],
@@ -1041,15 +969,18 @@
       "color": "#3d6b1b",
       "order": 7,
       "cover": "images/vp2-vr-1.png",
-      "gallery": [],
+      "gallery": [
+        "images/vp2-vr-2.png",
+        "images/vp2-vr-3.png"
+      ],
       "de": {
         "title": "Informationsvisualisierung in einem VR-Museum",
         "tag": "Studienprojekt",
         "kind": "Studienprojekt",
         "team": "2er-Team",
         "scope": "Case Study Analyse und iteratives Prototyping mit Schwerpunkt VR-Interaktionsdesign, Informationsvisualisierung und 3D-Prototyping",
-        "teaser": "3D-Anwendung zur immersiven Informations- & Wissensvermittlung in einem virtuellen Museum.",
-        "problem": "VR bietet neuartige Potenziale zur Wissensvermittlung, aber birgt gleichzeitig die Gefahr kognitiver Überladung und, damit zusammenhängend, dem Wegfall von Immersion & Präsenz.",
+        "teaser": "3D-VR-Anwendung zur immersiven Informations- und Wissensvermittlung in einem virtuellen Museum.",
+        "problem": "VR bietet einzigartige Vorteile zur Wissensvermittlung, jedoch können Informationen und unklare Interaktionen zu kognitiver Überladung (Visual Clutter) und damit dem Wegfall von Immersion führen.",
         "method": "Case Study Analyse von VR-Museumsanwendungen, iteratives Prototyping auf Basis der Literatur, finale technische Umsetzung eines funktionalen VR-Prototyps mit Unity.",
         "result": "Ein Prototyp zur menschzentrierten Informationsvermittlung in VR, der zeigt, wie komplexe Exponat- und Rauminformationen ohne Verlust der Präsenz und bei minimierter kognitiver Beanspruchung vermittelt werden können.",
         "links": [],
@@ -1060,27 +991,27 @@
           },
           {
             "label": "Tools",
-            "value": "Figma, Unity"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "Museumsbesucher"
+            "value": "Unity"
           }
         ],
-        "role": "Fallstudienanalyse, iteratives Prototyping, Schwerpunkt VR-Interaktionsdesign & Informationsvisualisierung",
-        "goal": "Interaktionskonzepte für VR, die Wissen (Lernförderung) & Hedonismus (Immersion) harmonisch koppeln.",
+        "role": "Case Study Analyse und iteratives Prototyping mit Schwerpunkt VR-Interaktionsdesign, Informationsvisualisierung und 3D-Prototyping",
+        "goal": "VR-Interaktionskonzepte, die Lernen (Lernförderung) und Hedonismus (Immersion) harmonisch koppeln.",
         "process": [
           {
-            "label": "Literaturrecherche",
-            "note": "Erwartungen der Zielgruppe"
+            "label": "Case Study Analyse",
+            "note": "VR-Museumsanwendungen"
           },
           {
-            "label": "Fallstudienanalyse",
-            "note": "Existierender VR-Museen (Louvre, Getty, CMATO)"
+            "label": "Literaturbasis",
+            "note": ""
+          },
+          {
+            "label": "Iteratives Prototyping",
+            "note": ""
           },
           {
             "label": "VR-Prototyp",
-            "note": "Unity-Anwendung"
+            "note": "Unity"
           }
         ],
         "methods": [
@@ -1092,27 +1023,27 @@
         ],
         "sample": "",
         "architecture": "",
-        "outcome": "Prototyp zur menschzentrierten Informationsdarstellung in VR, der zeigt, wie komplexe Exponat- & Rauminformationen bei minimierter kognitiver Beanspruchung vermittelt werden können.",
-        "finding": "Der Vorteil immersiver VR-Welten kommt nicht ohne Preis; Damit die kognitive Überladung nicht den Lernerfolg unterdrückt, muss die Informationsdarstellung diese gezielt abfedern.",
+        "outcome": "Ein Prototyp zur menschzentrierten Informationsvermittlung in VR, der zeigt, wie komplexe Exponat- und Rauminformationen ohne Verlust der Präsenz und bei minimierter kognitiver Beanspruchung vermittelt werden können.",
+        "finding": "",
         "evidence": [],
         "citation": "",
         "awards": [],
         "iteration": [
           {
             "src": "images/vp2-sketches.png",
-            "caption": "Sketches"
+            "caption": "Skizzen"
           },
           {
             "src": "images/vp2-architektur.png",
-            "caption": "System-Architektur"
+            "caption": "Architektur und Raumkonzept"
           },
           {
             "src": "images/vp2-mockups.png",
-            "caption": "UI Mockups (Figma)"
+            "caption": "Mockups"
           },
           {
             "src": "images/vp2-vr-1.png",
-            "caption": "VR-Prototyp (Unity)"
+            "caption": "VR-Prototyp"
           }
         ],
         "processText": ""
@@ -1202,13 +1133,13 @@
       "cover": "images/mobtis-1.png",
       "gallery": [],
       "de": {
-        "title": "Mobiler Cross-Reality-Prototyp für einen Campus-Alltag",
+        "title": "Interaktionsdesign · Cross-Reality-Systeme (AR/VR)",
         "tag": "Praktikum",
         "kind": "Praktikum · 11/2025 – 02/2026",
         "team": "Arbeitsgruppe »Interaktionsdesign & UX«, Institut IMIS · Universität zu Lübeck",
         "scope": "Projekt »MobTIs«: Konzeption und Interaktionsdesign eines mobilen Transitional Interface",
-        "teaser": "Mobiles System, der Studenten über den Campus-Tag hinweg zwischen Realität, AR & VR wechseln lässt, passend zur aktuellen Aufgabe.",
-        "problem": "Auf dem Campus wechseln physisches Umfeld & Aufgaben ständig, und unterschiedliche, bisher schwer miteinander kombinierbare Realitätsgrade (Realität, AR, VR) unterstützen diese unterschiedlich gut. ",
+        "teaser": "Mobiler Cross-Reality-Prototyp, der Studierende über den Campus-Tag hinweg zwischen Realität, AR und VR wechseln lässt.",
+        "problem": "Auf dem Campus wechseln Aufgaben ständig ihren räumlichen Bezug, während bestehende Anwendungen jeweils nur einen Realitätsgrad anbieten.",
         "method": "Konzeption und Interaktionsdesign eines Transitional Interface mit Schwerpunkt auf Transition Cues (kontextabhängig, distanz- und blickgesteuert) sowie prototypische Umsetzung für mobile Geräte.",
         "result": "Lauffähiger mobiler Cross-Reality-Prototyp für den Campus-Tag und Gestaltungswissen zu Transition Cues in mobilen Szenarien.",
         "links": [],
@@ -1219,34 +1150,36 @@
           },
           {
             "label": "Ort",
-            "value": "IMIS (Universität zu Lübeck)"
+            "value": "Institut IMIS · Universität zu Lübeck"
           },
           {
             "label": "Arbeitsgruppe",
             "value": "»Interaktionsdesign & UX«"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "Zukünftige Studenten"
           }
         ],
-        "role": "Konzeption & Interaktionsdesign",
-        "goal": "Ein mobiler Prototyp, der Studenten über den Tag begleitet und passend zur Aufgabe zwischen Realität, AR (z. B. Navigationshilfe) & VR (z. B. virtuelles Betreten eines Raums) wechseln lässt.",
+        "role": "Projekt »MobTIs«: Konzeption und Interaktionsdesign eines mobilen Transitional Interface",
+        "goal": "Ein mobiler Prototyp, der Studierende über den Tag begleitet und passend zur Aufgabe zwischen Realität, AR (z. B. Navigations-Overlay) und VR (z. B. virtuelles Betreten eines Raums) wechseln lässt.",
         "process": [],
         "methods": [
-          "Prototyping"
+          "Interaktionsdesign",
+          "Transition Cues",
+          "Mobiles Prototyping"
         ],
         "sample": "",
         "architecture": "",
-        "outcome": "Cross-Reality-Prototyp für einen zukünftigen Campus-Alltag inkl. kontextsensitive Transition Cues in mobilen Szenarien.",
-        "finding": "Flüssige Übergänge zwischen Realität, AR & VR erfordern geeignete kontextbezogene Hinweise, die Nutzer durch die Transition führen.",
+        "outcome": "Lauffähiger mobiler Cross-Reality-Prototyp für den Campus-Tag und Gestaltungswissen zu Transition Cues in mobilen Szenarien.",
+        "finding": "",
         "evidence": [],
         "citation": "",
         "awards": [],
         "iteration": [
           {
+            "src": "images/mobtis-1.png",
+            "caption": "Transition im Campus-Szenario"
+          },
+          {
             "src": "images/mobtis-2.png",
-            "caption": "Transition Cues für die Übergänge zwischen Realitätsgraden"
+            "caption": "Übergang in AR"
           }
         ],
         "processText": ""
@@ -1313,12 +1246,12 @@
       "cover": "images/haltestellung-2.png",
       "gallery": [],
       "de": {
-        "title": "Haltestellung – Standortbasiertes Strategie-Mobile-Game",
+        "title": "Haltestellung – Standortbasiertes Strategy Mobile Game",
         "tag": "GameJam",
         "kind": "GameJam",
         "team": "3er-Team",
         "scope": "vollständiger Game Design Prozess",
-        "teaser": "Nutzung des echten Straßennetzes als Level-Layout, um Wartezeiten an Haltestellen vergnüglicher zu machen.",
+        "teaser": "Nutzung des echten Straßennetzes als Level-Layout, um Wartezeiten an Haltestellen vergnüglicher zu machen, indem diese vor Gegnern beschützt wird.",
         "problem": "Langes Warten auf den öffentlichen Nahverkehr ist selten ein Vernügen.",
         "method": "Konzeption ineinandergreifender Game Loops für verschiedene Spielertypen sowie Designmaßnahmen zur Motivation, Involviertheit, Aufmerksamkeitslenkung, Balancing, positives Game Feeling und Humor.",
         "result": "Fertiges Mobile Game mit Auszeichnung zum 1. Platz des GameJams für die Kombination von Geodaten, Alltagssituationen und motivierenden Spielmechaniken.",
@@ -1331,23 +1264,20 @@
           {
             "label": "Anlass",
             "value": "GameJam"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "ÖPNV-Nutzer"
-          },
-          {
-            "label": "Tools",
-            "value": "Unity"
           }
         ],
-        "role": "vollständiger Game Design Prozess (Konzept, Visual Design, Sound Design, Game Design)",
+        "role": "vollständiger Game Design Prozess",
         "goal": "Reale Haltestellenumgebung in ein interaktives Spielfeld verwandeln zur Überbrückung der Wartezeit.",
         "process": [],
-        "methods": [],
+        "methods": [
+          "Game Design",
+          "Game Loops",
+          "Balancing",
+          "Geodaten"
+        ],
         "sample": "",
         "architecture": "",
-        "outcome": "Komplettes Mobile Game mit Auszeichnung für die Kombination von Geodaten, Alltagssituationen und motivierenden Spielmechaniken.",
+        "outcome": "Fertiges Mobile Game mit Auszeichnung zum 1. Platz des GameJams für die Kombination von Geodaten, Alltagssituationen und motivierenden Spielmechaniken.",
         "finding": "",
         "evidence": [],
         "citation": "",
@@ -1372,7 +1302,7 @@
             "caption": "Straßennetz als Level-Layout"
           }
         ],
-        "processText": "Fokus auf Game Loops, Spielspaß verschiedener Spielertypen, viszerale Stimulation & Game Feel, Involviertheit & Balancing."
+        "processText": ""
       },
       "en": {
         "title": "Haltestellung – A Location-Based Strategy Mobile Game",
@@ -1448,8 +1378,8 @@
         "kind": "Studienprojekt",
         "team": "3er-Team",
         "scope": "Schwerpunkt 3D-Interaktionsdesign und Physik-basiertes Controller-Tracking",
-        "teaser": "Immersive VR-Simulation zum naturgetreuen Angeln mit gestenbasierter Bewegungssteuerung & Gewässernavigation.",
-        "problem": "Das Auswerfen einer Angel benötigt komplexe Hand- & Armbewegungen, die in VR schwierig naturgetreu zu simulieren sind.",
+        "teaser": "Immersive VR-Simulation zum naturgetreuen Angeln mittels gestenbasierter Bewegungssteuerung und Gewässernavigation.",
+        "problem": "Komplexe Hand- und Armbewegungen aus der Realität wie das Auswerfen einer Angel wirken in VR oft unnatürlich.",
         "method": "Umsetzung eines physikbasierten Trackingkonzepts für VR-Controller zur Übersetzung realistischer Wurfbewegungen.",
         "result": "Funktionaler VR-Prototyp, der zeigt, wie komplexe Manöver und körperliche Gesten ohne zusätzliche Hardware durch präzise Controller-Transformationen natürlich umgesetzt werden können.",
         "links": [],
@@ -1457,23 +1387,19 @@
           {
             "label": "Team",
             "value": "3er-Team"
-          },
-          {
-            "label": "Tools",
-            "value": "Unity"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "Angel-Fans"
           }
         ],
-        "role": "Interaktionsdesign in VR & physikbasiertes Controller-Tracking",
+        "role": "Schwerpunkt 3D-Interaktionsdesign und Physik-basiertes Controller-Tracking",
         "goal": "Entwicklung einer intuitiven, gestenbasierten Steuerung mit hoher Bewegungsstreue.",
         "process": [],
-        "methods": [],
+        "methods": [
+          "3D-Interaktionsdesign",
+          "Physik-basiertes Controller-Tracking",
+          "Gestensteuerung"
+        ],
         "sample": "",
-        "architecture": "physikbasierte Controller-Gestensteuerung",
-        "outcome": "VR-Simulator-Spiel, das demonstriert, wie komplexe Manöver & körperliche Gesten ohne zusätzliche Hardware durch Controller-Transformationen natürlich umgesetzt werden können.",
+        "architecture": "",
+        "outcome": "Funktionaler VR-Prototyp, der zeigt, wie komplexe Manöver und körperliche Gesten ohne zusätzliche Hardware durch präzise Controller-Transformationen natürlich umgesetzt werden können.",
         "finding": "",
         "evidence": [],
         "citation": "",
@@ -1565,8 +1491,8 @@
         "kind": "Studienprojekt",
         "team": "4er-Team",
         "scope": "vollständiger Prozess von Anforderungsanalyse und Modellierung bis zum fertigen Spiel, mit Schwerpunkt Softwarearchitektur, Regelwerkslogik, gekoppelte GUI- & CLI-Entwicklung",
-        "teaser": "Digitalisierung eines Brettspiels und seines komplexen Regelwerks.",
-        "problem": "Komplexe Systeme wie Brettspiele mit vielen Regeln sind nicht einfach zu programmieren und erfordern eine geeignete Software-Architektur.",
+        "teaser": "Digitalisierung des Brettspiels »Keltis« und seines komplexen Regelwerks.",
+        "problem": "Komplexe Systemen wie Brettspiele mit vielen Regeln sind nicht einfach zu programmieren, insbesondere da oft eine strikte Entkopplung von Backend-Logik und Frontend-Darstellung nötig ist.",
         "method": "Anforderungsanalyse mit Use Case Diagramm und Story Cards, objektorientierte Modellierung der Spielzustände, Regelprüfungen und Spielzüge. Implementierung einer grafischen Benutzeroberfläche (GUI) sowie einer parallel nutzbaren Kommandozeilenschnittstelle (CLI) auf Basis etablierter Industrie-Entwurfsmuster (MVC).",
         "result": "Funktionsfähige Software-Adaption von »Keltis«, welche eine strikte Trennung von Backend-Logik und variabler Frontend-Darstellung umsetzt.",
         "links": [],
@@ -1574,29 +1500,28 @@
           {
             "label": "Team",
             "value": "4er-Team"
-          },
-          {
-            "label": "Tools",
-            "value": "JavaFX"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "Brettspiel-Spieler"
           }
         ],
-        "role": "Vollständiger Prozess von Anforderungsanalyse & Modellierung bis zum fertigen Spiel, mit Schwerpunkt Softwarearchitektur & Regelwerkslogik",
-        "goal": "Robuste Implementierung, die dasselbe Regelwerk flexibel über verschiedene Schnittstellen (grafisch & textbasiert) nutzbar macht.",
+        "role": "vollständiger Prozess von Anforderungsanalyse und Modellierung bis zum fertigen Spiel, mit Schwerpunkt Softwarearchitektur, Regelwerkslogik, gekoppelte GUI- & CLI-Entwicklung",
+        "goal": "Robuste Softwarearchitektur, die dasselbe Regelwerk flexibel über verschiedene Schnittstellen (grafische Benutzeroberfläche & textbasierte Konsole) nutzbar macht.",
         "process": [],
-        "methods": [],
+        "methods": [
+          "Anforderungsanalyse",
+          "Use Case Diagramm",
+          "Story Cards",
+          "Objektorientierte Modellierung",
+          "MVC",
+          "GUI & CLI"
+        ],
         "sample": "",
-        "architecture": "Etabliertes MVC-Entwurfsmusters zur Entkopllung von Frontend & Backend, sodass dasselbe Regelwerk über eine grafische sowie eine Kommandozeilen-basierte Schnittstelle nutzbar ist.",
-        "outcome": "Software-Adaption von »Keltis« gemäß etablierter Entwurfsmuster zur strikten Trennung von Backend-Logik & Frontend-Darstellung.",
+        "architecture": "Strikte Trennung von Backend-Logik und variabler Frontend-Darstellung auf Basis des MVC-Entwurfsmusters, sodass dasselbe Regelwerk sowohl über eine grafische Benutzeroberfläche als auch über eine Kommandozeilenschnittstelle nutzbar ist.",
+        "outcome": "Funktionsfähige Software-Adaption von »Keltis«, welche eine strikte Trennung von Backend-Logik und variabler Frontend-Darstellung umsetzt.",
         "finding": "",
         "evidence": [],
         "citation": "",
         "awards": [],
         "iteration": [],
-        "processText": "Anforderungsanalyse, Use Case Diagramm, Story Cards, Objektorientierte Modellierung"
+        "processText": ""
       },
       "en": {
         "title": "Adapting the Board Game »Keltis« as a Computer Game",
@@ -1651,7 +1576,7 @@
         "kind": "Studienprojekt",
         "team": "6er-Team",
         "scope": "Schwerpunkt standortbasiertes soziales Konzept sowie Konsistenz im Auftreten einer Marke (Logo, Werbeflyer, App-Design)",
-        "teaser": "Gamifiziertes Fitness-App-Konzept, das sportliche Betätigung mit der spielerischen Erkundung Lübecks und sozialer Interaktion verbindet.",
+        "teaser": "Gamifizierte Fitness-App, die sportliche Betätigung an virtuellen Stadt-Stationen mit der spielerischen Erkundung Lübecks und sozialer Interaktion verbindet.",
         "problem": "Mangelnde Motivation zu regelmäßiger Bewegung im Freien sowie Hürden beim Knüpfen neuer sozialer Kontakte in einer Stadt.",
         "method": "Tangram-Methode, 8,5 Charakterrollen Methode, iteratives Prototyping, Anfertigung eines Branded Design Systems",
         "result": "App-Konzept, das zeigt, wie städtischer Raum durch Gamification als interaktive Sport- und Begegnungsumgebung verwendet werden kann.",
@@ -1660,13 +1585,9 @@
           {
             "label": "Team",
             "value": "6er-Team"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "Lübecker"
           }
         ],
-        "role": "Standortbasiertes soziales Konzept und konsistentes Auftreten einer Marke (Logo, Werbeflyer, App-Design)",
+        "role": "Schwerpunkt standortbasiertes soziales Konzept sowie Konsistenz im Auftreten einer Marke (Logo, Werbeflyer, App-Design)",
         "goal": "Synergie aus Outdoor-Fitness, ortsbezogener Erkundung und Gamification herstellen.",
         "process": [],
         "methods": [
@@ -1677,8 +1598,8 @@
         ],
         "sample": "",
         "architecture": "",
-        "outcome": "App-Konzept, das zeigt, wie städtischer Raum durch Gamification für Sport- & Begegnungschancen zugleich verwendet werden kann.",
-        "finding": "Mehrere Anreize können sich gegenseitig verstärken und die Hürde für körperliche Aktivität verringern; aber ohne das konsequente Einhalten von UI-Grundregeln entsteht Reibung, welche diese Motivatoren ausbremst.",
+        "outcome": "App-Konzept, das zeigt, wie städtischer Raum durch Gamification als interaktive Sport- und Begegnungsumgebung verwendet werden kann.",
+        "finding": "",
         "evidence": [],
         "citation": "",
         "awards": [],
@@ -1763,15 +1684,22 @@
       "color": "#2c68a4",
       "order": 13,
       "cover": "images/nui-poster7.png",
-      "gallery": [],
+      "gallery": [
+        "images/nui-poster-1.png",
+        "images/nui-poster-2.png",
+        "images/nui-poster-3.png",
+        "images/nui-poster-4.png",
+        "images/nui-poster-5.png",
+        "images/nui-poster-6.png"
+      ],
       "de": {
-        "title": "Nahtlose Cross-Device-Kollaboration mittels sensomotorischer Metaphern",
+        "title": "Natural User Interface zur einfachen kollaborativen Gestaltung einer Fotocollage",
         "tag": "Studienprojekt",
         "kind": "Studienprojekt",
         "team": "3er-Team",
         "scope": "Konzeption & Prototypische Umsetzung eines Natural User Interfaces",
         "teaser": "Geräteübergreifendes System zur nahtlosen Kollaboration ohne Hürden durch komplexe Setups.",
-        "problem": "Einschränkendes Sitzen um einen PC herum, ungleiche Teilhabe sowie aufwendige Datenübertragung erschweren gemeinsame Kollaboration.",
+        "problem": "Einschränkendes Sitzen um einen PC, ungleichberechtigte Teilhabe sowie aufwendige Datenübertragung (Kabel/Explorer) erschweren die gemeinsame Kollaboration.",
         "method": "Einsatz von AprilTag-Markererkennung (WebAssembly/JS), Cross-Device Communication via WebRTC sowie sensomotorische Metaphern (z. B. einfache Foto-Übertragung per Swipe vom Smartphone auf das gemeinsame Tablet).",
         "result": "Webbasierter Prototyp für die gemeinsame Collage-Erstellung mit räumlicher Awareness (Territoriality) und ad-hoc Konnektivität über Geräte-Grenzen hinweg.",
         "links": [
@@ -1784,10 +1712,6 @@
           {
             "label": "Team",
             "value": "3er-Team"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "kollaborierende Gruppe"
           }
         ],
         "role": "Konzeption & Prototypische Umsetzung eines Natural User Interfaces",
@@ -1795,14 +1719,15 @@
         "process": [],
         "methods": [
           "AprilTag-Markererkennung",
+          "WebAssembly/JS",
           "WebRTC",
           "Cross-Device Interaction",
           "Sensomotorische Metaphern"
         ],
         "sample": "",
         "architecture": "",
-        "outcome": "Tool zur gemeinsamen Collage-Erstellung mit Kontextbewusstsein sowie ad-hoc Konnektivität & Interaktion über Geräte-Grenzen hinweg.",
-        "finding": "Sensomotorische Metaphern & sogenannte Image Schemas lassen sich verwenden, damit sich Systeme intuitiver & unkomplizierter anfühlen; insbesondere für technikaverse Menschen (z.B. einfache Foto-Übertragung per Swipe von Smartphone auf gemeinsames Tablet).",
+        "outcome": "Webbasierter Prototyp für die gemeinsame Collage-Erstellung mit räumlicher Awareness (Territoriality) und ad-hoc Konnektivität über Geräte-Grenzen hinweg.",
+        "finding": "",
         "evidence": [],
         "citation": "",
         "awards": [],
@@ -1902,8 +1827,8 @@
         "kind": "D. Schacht, J.-H. Schröder, T. Breier, F. Wendt, H.-C. Jetter",
         "team": "D. Schacht, J.-H. Schröder, T. Breier, F. Wendt, H.-C. Jetter",
         "scope": "Submitted / Under Review bei CHI 2027",
-        "teaser": "Forschungspapier zur Konsolidierung und empirischen Erarbeitung eines Frameworks und Designüberlegungen für Cross-Reality-Übergänge.",
-        "problem": "Forschung zu Transitional Interfaces konzentriert sich auf visuelle Übergangstechniken, ignoriert jedoch Reibungspunkte davor und danach, wofür ein gemeinsames Vokabular & ganzheitliche Guidance fehlen.",
+        "teaser": "Forschungspapier zur Konsolidierung und empirischen Erarbeitung eines 3-Phasen-Frameworks sowie 11 konkreter Design-Hilfen für Cross-Reality-Übergänge.",
+        "problem": "Bisherige Forschung zu Transitional Interfaces hat sich auf visuelle Übergangstechniken fokussiert, ignorierte jedoch Reibungspunkte davor und danach, wofür ein gemeinsames Vokabular und ganzheitliche Guidance fehlen.",
         "method": "Literaturbasierte Konsolidierung eines 3-Phasen-Modells, Interviewstudie mit 5 TI-Forschern, Co-Design-Studie mit 16 professionellen Designern, qualitative Analyse von 164 Design Moves.",
         "result": "Nutzendemonstration des 3-Phasen-Frameworks und Bereitstellung von 11 Design Considerations für die TI-Interface-Gestaltung.",
         "citation": "D. Schacht, J.-H. Schröder, T. Breier, F. Wendt, H.-C. Jetter. Submitted / Under Review bei CHI 2027.",
@@ -1911,15 +1836,15 @@
         "metaBar": [
           {
             "label": "Status",
-            "value": "Eingereicht / In Begutachtung"
+            "value": "Submitted / Under Review"
           },
           {
             "label": "Venue",
             "value": "CHI 2027"
           }
         ],
-        "role": "Co-Autor · Durchführung der Co-Design-Studie, Auswertung & Aufstellung der Designüberlegungen",
-        "goal": "Entwicklung eines generalisierten Frameworks & empirisch fundierter Designüberlegungen  für die Phase vor, während und nach dem Übergang.",
+        "role": "Co-Autor · Durchführung der Co-Design-Studie, Auswertung und Aufstellung der Design Guidance",
+        "goal": "Entwicklung eines generalisierten Frameworks und empirisch fundierter Design-Hilfen für die Phase vor, während und nach dem Übergang.",
         "process": [],
         "methods": [
           "Literaturbasierte Konsolidierung",
@@ -1927,9 +1852,9 @@
           "Co-Design-Studie",
           "Qualitative Analyse"
         ],
-        "sample": "5 TI-Forscher (Interviewstudie) & 16 professionelle Designer (Co-Design-Studie)",
+        "sample": "5 TI-Forscher (Interviewstudie) und 16 professionelle Designer (Co-Design-Studie)",
         "architecture": "",
-        "outcome": "Drei-Phasen-Framework & 11 Designüberlegungen für das Design von Transitional Interfaces.",
+        "outcome": "Nutzendemonstration des 3-Phasen-Frameworks und Bereitstellung von 11 Design Considerations für die TI-Interface-Gestaltung.",
         "finding": "",
         "evidence": [
           {
@@ -2011,8 +1936,8 @@
         "kind": "D. Schacht, J.-H. Schröder, J. Proksch, T. Breier, L. Reil, H.-C. Jetter",
         "team": "D. Schacht, J.-H. Schröder, J. Proksch, T. Breier, L. Reil, H.-C. Jetter",
         "scope": "Proceedings of NordiCHI 2026 (ACM), in press",
-        "teaser": "Qualitative Feldstudie auf einem Campus-Gelände zu Nutzer-Herausforderungen bei Übergängen zwischen Realität, AR & VR in realistischen Alltagssituationen.",
-        "problem": "Forschung zu Transitional Interfaces untersucht häufig räumlich begrenzte Laborumgebungen, wodurch unklar bleibt, wie sich Interaktions-Herausforderungen in realistischen, mobilen und öffentlichen Kontexten auswirken.",
+        "teaser": "Qualitative Feldstudie auf einem Campus-Gelände zur Validierung und Reduktion von Nutzer-Herausforderungen bei Übergängen zwischen Realität, AR und VR in realistischen Alltagssituationen.",
+        "problem": "Bisherige Forschung zu Transitional Interfaces beschränkt sich primär auf räumlich begrenzte Laborumgebungen, wodurch unklar bleibt, wie sich Interaktions-Herausforderungen in realistischen, mobilen und öffentlichen Kontexten auswirken.",
         "method": "Qualitative Nutzerstudie (N = 18) entlang einer öffentlichen Campus-Route mit 13 Transitions (jeweils in zwei Designvarianten umgesetzt) zwischen R, AR und VR, systematische Analyse der Challenge-Profiles und Evaluierung von Entry Cues, Transition Techniques und Arrival Cues.",
         "result": "Validierung von 4 bekannten Reibungs-Kategorien (räumliche Disorientierung, Fear of the Unknown, soziales Unbehagen, körperliche Belastung) und Entdeckung einer neuen Kategorie »Funktionale Unsicherheit«, sowie Einführung des Designprinzips der »Challenge-Profile Calibration«.",
         "citation": "D. Schacht, J.-H. Schröder, J. Proksch, T. Breier, L. Reil, H.-C. Jetter. Proceedings of NordiCHI 2026 (ACM), in press.",
@@ -2020,7 +1945,7 @@
         "metaBar": [
           {
             "label": "Status",
-            "value": "Im Druck"
+            "value": "In press"
           },
           {
             "label": "Venue",
@@ -2028,14 +1953,14 @@
           }
         ],
         "role": "Bau des Systems, Erstellen der Grafiken",
-        "goal": "Empirische Identifikation & Minderung von Reibungspunkten über 13 verschiedene Übergänge hinweg.",
+        "goal": "Empirische Identifikation und Minderung von Reibungspunkten über 13 verschiedene Übergänge hinweg.",
         "process": [],
         "methods": [
           "Qualitative Nutzerstudie",
           "Feldstudie",
           "Challenge-Profile-Analyse"
         ],
-        "sample": "18 Studenten entlang einer öffentlichen Campus-Route mit 13 Transitions",
+        "sample": "N = 18 entlang einer öffentlichen Campus-Route mit 13 Transitions",
         "architecture": "",
         "outcome": "Validierung von 4 bekannten Reibungs-Kategorien (räumliche Disorientierung, Fear of the Unknown, soziales Unbehagen, körperliche Belastung) und Entdeckung einer neuen Kategorie »Funktionale Unsicherheit«, sowie Einführung des Designprinzips der »Challenge-Profile Calibration«.",
         "finding": "Neben der Validierung von 4 bekannten Reibungs-Kategorien zeigte sich eine neue Kategorie »Funktionale Unsicherheit«.",

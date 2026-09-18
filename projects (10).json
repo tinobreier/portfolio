@@ -37,8 +37,8 @@
         "kind": "Abschlussarbeit (M.Sc.)",
         "team": "Solo",
         "scope": "Vollständiger Prozess: Studienplanung, Rekrutierung, qualitative Auswertung, Aufstellung von Design-Hilfen, Rückbindung an die Literatur",
-        "teaser": "Co-Design-Studie mit professionellen Designern zur Ableitung von Gestaltungshilfen für neuartige Cross-Reality-Systeme.",
-        "problem": "Transitional Interfaces können die Vorteile von Realität, AR & VR kombinieren, bringen jedoch neuartige UX-Probleme & Reibungspunkte mit sich, für die bislang praxisnahe Gestaltungshilfen fehlen.",
+        "teaser": "Co-Design-Studie mit professionellen Designern zur Ableitung von Designhilfen für neuartige Cross-Reality Systeme.",
+        "problem": "Transitional Interfaces könnten die Vorteile von Realität, AR & VR kombinieren, haben jedoch neuartige UX-Probleme & Reibungspunkte, für die bislang praxisnahe Designhilfen fehlen.",
         "method": "Planung und Durchführung einer Co-Design-Studie sowie Auswertung und Interpretation der Daten mittels Thematic Analysis und Affinity Diagramming.",
         "result": "Aufstellung konkreter Design Guidance und empirisch fundiertes Reflektieren eines Frameworks für Cross-Reality Transitional Interfaces.",
         "links": [],
@@ -84,7 +84,7 @@
         "sample": "",
         "architecture": "",
         "outcome": "Konkrete Design Guidance & empirisch fundiertes Reflektieren eines Frameworks für die Gestaltung von Transitional Interfaces.",
-        "finding": "Um existierende Reibungspunkte zu verringern, ist das Zwischenspiel dreier Phasen besonders wichtig, die im behandelten Framework beschrieben werden.",
+        "finding": "Um existierende Reibungspunkte zu verringern, scheint das Zwischenspiel dreier Phasen besonders wichtig zu sein, die im behandeltem Framework erklärt werden.",
         "evidence": [
           {
             "value": "N = 16",
@@ -172,7 +172,7 @@
         "team": "Solo",
         "scope": "Vollständiger Prozess: Marktanalyse, Konzept, Prototyping, Web-Entwicklung, Evaluation, Verbesserungsansätze",
         "teaser": "Mediendidaktisches, interaktives Web-Tool zur Vermittlung von Guidelines für die Mensch-KI-Interaktion in gemeinwohlorientierten Projekten.",
-        "problem": "KI bietet großes Potenzial für den Gemeinwohl-Sektor, jedoch fehlen vielen Akteuren Kenntnisse, um die Interaktion zwischen Mensch und KI angemessen und menschzentriert zu gestalten.",
+        "problem": "KI bietet großes Potenzial für den Gemeinwohl-Sektor, doch Leuten fehlt Kenntnis, um die Interaktion zwischen Mensch und KI angemessen, menschzentriert zu gestalten.",
         "method": "Menschzentrierter Gestaltungsprozess (UCD) über zwei Prototypen-Iterationen. Summative empirische Evaluation mit 40 Probanden anhand standardisierter Fragebögen (SUS, UX) und eines Mixed Between-Within ANOVA Designs.",
         "result": "Ein interaktives »Dos and Don'ts«-Tool zur Stärkung von KI-Kompetenzen unter Berücksichtigung mediendidaktischer Prinzipien, inklusive Nachweis einer hohen Gebrauchstauglichkeit und positiven UX.",
         "links": [
@@ -236,8 +236,8 @@
         ],
         "sample": "",
         "architecture": "",
-        "outcome": "Interaktives »Dos and Don'ts«-Tool zur Stärkung von KI-Kompetenz unter Berücksichtigung mediendidaktischer Prinzipien.",
-        "finding": "Systematisches Einbeziehen von Analysen, Modellen und Heuristiken ist die Grundlage hoher Gebrauchstauglichkeit; für eine positive UX und nachhaltigen Lernerfolg sind darüber hinaus jedoch weitere Faktoren relevant.",
+        "outcome": "Interaktives »Dos and Don'ts«-Tool zur Stärkung der KI-Kompetenz unter Berücksichtigung mediendidaktischer Prinzipien.",
+        "finding": "Systematisches Einbeziehen von Analysen, Modellen und Heuristiken ist die Grundlage hoher Gebrauchstauglichkeit; für exzellente UX oder echten Lernerfolg braucht es jedoch mehr.",
         "evidence": [
           {
             "value": "40",
@@ -800,7 +800,7 @@
         "sample": "",
         "architecture": "",
         "outcome": "Zwei Darstellungsvarianten, beide mit exzellenter Gebrauchstauglichkeit, sowie Integrationsperspektive für Lernplattformen wie Moodle.",
-        "finding": "Beide Varianten zeigten eine hohe Gebrauchs- und Praxistauglichkeit, verlangen den Lernenden kognitiv jedoch vergleichsweise viel ab.",
+        "finding": "Beide Varianten überzeugen durch hohe Gebrauchs- und Praxistauglichkeit, verlangen den Lernenden kognitiv jedoch noch recht viel ab.",
         "evidence": [
           {
             "value": "83.5 / 85.8",
@@ -968,7 +968,7 @@
         ],
         "sample": "",
         "architecture": "",
-        "finding": "Probanden waren primär monetär motiviert, scheitern jedoch oft an Bequemlichkeit & Komfort, weshalb sie sich automatische Unterstützungsfunktionen wünschten.",
+        "finding": "Nutzeer sind primär monetär motiviert, scheitern jedoch oft an Bequemlichkeit & Komfort; weshalb sie sich automatische Unterstützungsfunktionen wünschen.",
         "evidence": [
           {
             "value": "N = 5",
@@ -994,7 +994,7 @@
         "role": "Aggregation & Triangulierung von Datenquellen,  Durchführung Interview-Studie, Aufstellung Design Guidelines",
         "teaser": "Länger mit einer Akkuladung auskommen durch systemseitige Informationen, Features und Nudges.",
         "problem": "Hohe Energieverbrauche/-kosten und leergehende Akkus steigen bei anspruchsvollerer Hardware & Software.",
-        "goal": "Nutzern Möglichkeiten bieten, ihr Smartphone energieeffizienter und bewusster zu nutzen.",
+        "goal": "Leuten Möglichkeiten bieten, energieeffizienter und kontrollierter ihr Smartphone zu bedienen.",
         "method": "",
         "result": "",
         "outcome": "Sechs konkrete Gestaltungsrichtlinien für UI/UX Designer basierend auf aggregierten Erkenntnissen der Motivationspsychologie & eigenen empirischen Untersuchungen."
@@ -1049,7 +1049,7 @@
         "team": "2er-Team",
         "scope": "Case Study Analyse und iteratives Prototyping mit Schwerpunkt VR-Interaktionsdesign, Informationsvisualisierung und 3D-Prototyping",
         "teaser": "3D-Anwendung zur immersiven Informations- & Wissensvermittlung in einem virtuellen Museum.",
-        "problem": "VR bietet neuartige Potenziale zur Wissensvermittlung, aber birgt gleichzeitig die Gefahr kognitiver Überladung und, damit zusammenhängend, dem Wegfall von Immersion & Präsenz.",
+        "problem": "VR bietet neuartige Potenziale zur Wissensvermittlung, aber birgt gleichzeitig die Gefahr kognitiver Überladung und, damit zusammenhängend, dem Wegfall von Immersion.",
         "method": "Case Study Analyse von VR-Museumsanwendungen, iteratives Prototyping auf Basis der Literatur, finale technische Umsetzung eines funktionalen VR-Prototyps mit Unity.",
         "result": "Ein Prototyp zur menschzentrierten Informationsvermittlung in VR, der zeigt, wie komplexe Exponat- und Rauminformationen ohne Verlust der Präsenz und bei minimierter kognitiver Beanspruchung vermittelt werden können.",
         "links": [],
@@ -1067,7 +1067,7 @@
             "value": "Museumsbesucher"
           }
         ],
-        "role": "Fallstudienanalyse, iteratives Prototyping, Schwerpunkt VR-Interaktionsdesign & Informationsvisualisierung",
+        "role": "Case Study Analyse, iteratives Prototyping, Schwerpunkt VR-Interaktionsdesign & Informationsvisualisierung",
         "goal": "Interaktionskonzepte für VR, die Wissen (Lernförderung) & Hedonismus (Immersion) harmonisch koppeln.",
         "process": [
           {
@@ -1075,7 +1075,7 @@
             "note": "Erwartungen der Zielgruppe"
           },
           {
-            "label": "Fallstudienanalyse",
+            "label": "Case Study Analyse",
             "note": "Existierender VR-Museen (Louvre, Getty, CMATO)"
           },
           {
@@ -1239,7 +1239,7 @@
         "sample": "",
         "architecture": "",
         "outcome": "Cross-Reality-Prototyp für einen zukünftigen Campus-Alltag inkl. kontextsensitive Transition Cues in mobilen Szenarien.",
-        "finding": "Flüssige Übergänge zwischen Realität, AR & VR erfordern geeignete kontextbezogene Hinweise, die Nutzer durch die Transition führen.",
+        "finding": "Übergänge zwischen den Realitätsgraden gelingen nur dann flüssig, wenn kontextuelle Hinweise (z. B. kontext-, distanz- & blickgesteuert) den Nutzer leiten.",
         "evidence": [],
         "citation": "",
         "awards": [],
@@ -1372,7 +1372,7 @@
             "caption": "Straßennetz als Level-Layout"
           }
         ],
-        "processText": "Fokus auf Game Loops, Spielspaß verschiedener Spielertypen, viszerale Stimulation & Game Feel, Involviertheit & Balancing."
+        "processText": "Fokus auf Game Loops, Spielspaß verschiedener Spielertypen, viszerale Stimulation & Game Feeling, Involviertheit & Balancing."
       },
       "en": {
         "title": "Haltestellung – A Location-Based Strategy Mobile Game",
@@ -1467,13 +1467,13 @@
             "value": "Angel-Fans"
           }
         ],
-        "role": "Interaktionsdesign in VR & physikbasiertes Controller-Tracking",
+        "role": "Interaktionsdesign in VR & Physik-basiertes Controller-Tracking",
         "goal": "Entwicklung einer intuitiven, gestenbasierten Steuerung mit hoher Bewegungsstreue.",
         "process": [],
         "methods": [],
         "sample": "",
-        "architecture": "physikbasierte Controller-Gestensteuerung",
-        "outcome": "VR-Simulator-Spiel, das demonstriert, wie komplexe Manöver & körperliche Gesten ohne zusätzliche Hardware durch Controller-Transformationen natürlich umgesetzt werden können.",
+        "architecture": "Physik-basierte Controller-Gestensteuerung",
+        "outcome": "VR-Simulator-Spiel, das zeigt, wie komplexe Manöver & körperliche Gesten ohne zusätzliche Hardware durch Controller-Transformationen natürlich umgesetzt werden können.",
         "finding": "",
         "evidence": [],
         "citation": "",
@@ -1678,7 +1678,7 @@
         "sample": "",
         "architecture": "",
         "outcome": "App-Konzept, das zeigt, wie städtischer Raum durch Gamification für Sport- & Begegnungschancen zugleich verwendet werden kann.",
-        "finding": "Mehrere Anreize können sich gegenseitig verstärken und die Hürde für körperliche Aktivität verringern; aber ohne das konsequente Einhalten von UI-Grundregeln entsteht Reibung, welche diese Motivatoren ausbremst.",
+        "finding": "Mehrere Anreize können sich gegenseitig hochschaukeln und die Hürde vor Bewegung verringern; aber ohne das konsequente Einhalten von UI-Grundregeln entsteht Reibung, welche diese Motivatoren ausbremst.",
         "evidence": [],
         "citation": "",
         "awards": [],

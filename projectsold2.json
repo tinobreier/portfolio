@@ -25,11 +25,152 @@
   },
   "items": [
     {
+      "id": "design-guidance-xr",
+      "type": "project",
+      "color": "#1565c0",
+      "order": 1,
+      "cover": "",
+      "gallery": [],
+      "de": {
+        "title": "Design Guidance für Cross-Reality Transitional Interfaces",
+        "tag": "Abschlussarbeit",
+        "kind": "Abschlussarbeit (M.Sc.)",
+        "team": "Solo",
+        "scope": "Vollständiger Prozess: Studienplanung, Rekrutierung, qualitative Auswertung, Aufstellung von Designhilfen, Rückbindung an die Literatur",
+        "teaser": "Co-Design-Studie mit professionellen Designern zur Ableitung von Gestaltungshilfen für neuartige Cross-Reality-Systeme.",
+        "problem": "Transitional Interfaces kombinieren die Vorteile von Realität, AR und VR, erzeugen an den Übergängen jedoch neuartige UX-Probleme und Reibungspunkte, für die praxisnahe Gestaltungshilfen fehlen.",
+        "method": "Planung und Durchführung einer Co-Design-Studie sowie Auswertung und Interpretation der Daten mittels Thematic Analysis und Affinity Diagramming.",
+        "result": "Konkrete Design Guidance sowie eine empirisch fundierte Reflexion des zugrunde liegenden Frameworks für Cross-Reality Transitional Interfaces.",
+        "citation": "",
+        "links": [],
+        "metaBar": [
+          {
+            "label": "Team",
+            "value": "Solo"
+          },
+          {
+            "label": "Zielgruppe",
+            "value": "Cross-Reality Designer"
+          }
+        ],
+        "role": "Vollständiger Prozess: Studienplanung, Rekrutierung, qualitative Auswertung, Aufstellung von Designhilfen, Rückbindung an die Literatur",
+        "goal": "An das Expertenwissen professioneller AR/VR-Designer anknüpfen.",
+        "process": [
+          {
+            "label": "Studienplanung",
+            "note": "Co-Design-Studie, Rekrutierung"
+          },
+          {
+            "label": "Durchführung",
+            "note": "acht Co-Design-Sessions"
+          },
+          {
+            "label": "Auswertung",
+            "note": "Thematic Analysis, Affinity Diagramming"
+          },
+          {
+            "label": "Design Guidance",
+            "note": "Rückbindung an die Literatur"
+          }
+        ],
+        "processText": "Co-Design-Studie mit professionellen AR/VR-Designern, qualitativ ausgewertet und an die Literatur rückgebunden",
+        "methods": [
+          "Co-Design-Studie",
+          "Thematic Analysis",
+          "Affinity Diagramming",
+          "Qualitative Auswertung"
+        ],
+        "sample": "",
+        "architecture": "",
+        "outcome": "Konkrete Design Guidance und eine empirisch fundierte Reflexion des Frameworks für Transitional Interfaces.",
+        "finding": "Um Reibungspunkte zu verringern, zählt vor allem das Zusammenspiel der drei Phasen, die das untersuchte Framework beschreibt.",
+        "evidence": [
+          {
+            "value": "N = 16",
+            "label": "Teilnehmende (Designer)"
+          },
+          {
+            "value": "164",
+            "label": "analysierte Design Moves"
+          }
+        ],
+        "awards": [],
+        "iteration": []
+      },
+      "en": {
+        "title": "Design Guidance for Cross-Reality Transitional Interfaces",
+        "tag": "Thesis",
+        "kind": "Master's Thesis",
+        "team": "Solo",
+        "scope": "Full process: study design, recruitment, qualitative analysis, establishing design guidance, tying the results back to the literature",
+        "teaser": "A co-design study with professional designers deriving design guidance for cross-reality systems.",
+        "problem": "Transitional interfaces combine the benefits of reality, AR and VR, yet the moves between them create novel UX problems and friction for which practical design guidance is missing.",
+        "method": "Planning and running a co-design study, plus analysis and interpretation of the data through thematic analysis and affinity diagramming.",
+        "result": "Concrete design guidance and an empirically grounded reflection on the underlying framework for cross-reality transitional interfaces.",
+        "citation": "",
+        "links": [],
+        "metaBar": [
+          {
+            "label": "Team",
+            "value": "Solo"
+          },
+          {
+            "label": "Audience",
+            "value": "Cross-reality designers"
+          }
+        ],
+        "role": "Full process: study design, recruitment, qualitative analysis, establishing design guidance, tying the results back to the literature",
+        "goal": "Build on the expert knowledge of professional AR/VR designers.",
+        "process": [
+          {
+            "label": "Study design",
+            "note": "co-design study, recruitment"
+          },
+          {
+            "label": "Sessions",
+            "note": "eight co-design sessions"
+          },
+          {
+            "label": "Analysis",
+            "note": "thematic analysis, affinity diagramming"
+          },
+          {
+            "label": "Design guidance",
+            "note": "tied back to the literature"
+          }
+        ],
+        "processText": "A co-design study with professional AR/VR designers, analysed qualitatively and tied back to the literature",
+        "methods": [
+          "Co-design study",
+          "Thematic analysis",
+          "Affinity diagramming",
+          "Qualitative analysis"
+        ],
+        "sample": "",
+        "architecture": "",
+        "outcome": "Concrete design guidance and an empirically grounded reflection on the framework for transitional interfaces.",
+        "finding": "Reducing friction depends above all on the interplay of the three phases the framework describes.",
+        "evidence": [
+          {
+            "value": "N = 16",
+            "label": "Participants (designers)"
+          },
+          {
+            "value": "164",
+            "label": "design moves analysed"
+          }
+        ],
+        "awards": [],
+        "iteration": []
+      },
+      "layout": "A"
+    },
+    {
       "id": "lehrplattform-guidelines",
       "type": "project",
       "color": "#bf4008",
-      "order": 1,
-      "cover": "images/ba-app.webp",
+      "order": 2,
+      "cover": "images/ba-app.png",
       "gallery": [],
       "de": {
         "title": "Interaktive Lehrplattform zur Vermittlung von UX-/KI-Guidelines",
@@ -59,7 +200,7 @@
           },
           {
             "label": "Zielgruppe",
-            "value": "Mitglieder gemeinwohlorientierter Projekte"
+            "value": "Mitglieder von Gemeinwohl-Projekten"
           }
         ],
         "role": "Vollständiger Prozess: Analyse, Konzept, Prototyping, Web-Entwicklung, formative und summative Evaluation",
@@ -265,48 +406,14 @@
           }
         ]
       },
-      "layout": "A",
-      "evidenceImages": [
-        {
-          "src": "images/ba-sus.webp",
-          "caption": "Ergebnisse des SUS-Fragebogens"
-        },
-        {
-          "src": "images/ba-ueq.webp",
-          "caption": "Ergebnisse des UEQ-Fragebogens (detailliert)"
-        },
-        {
-          "src": "images/ba-ueq-2.webp",
-          "caption": "Ergebnisse des UEQ-Fragebogens (aggregiert)"
-        }
-      ],
-      "productImages": [
-        {
-          "src": "images/ba-app.webp",
-          "caption": "Endprodukt (1/2)"
-        },
-        {
-          "src": "images/ba-app-2.webp",
-          "caption": "Endprodukt (2/2)"
-        }
-      ],
-      "fanImages": [
-        {
-          "src": "images/ba-sketches.webp",
-          "caption": "Sketches"
-        },
-        {
-          "src": "images/ba-ueq.webp",
-          "caption": "UEQ-Fragebogen"
-        }
-      ]
+      "layout": "A"
     },
     {
       "id": "insulin-app",
       "type": "project",
       "color": "#0f7268",
-      "order": 2,
-      "cover": "images/ingpsy-2.webp",
+      "order": 3,
+      "cover": "images/ingpsy-2.png",
       "gallery": [],
       "de": {
         "title": "Konzeption und Prototyp einer KI-gestützten App zur Insulindosierung",
@@ -370,7 +477,7 @@
         "evidence": [
           {
             "value": "12",
-            "label": "Teilnehmende im Abstimmungs-Workshops"
+            "label": "Teilnehmende in den Abstimmungs-Workshops"
           }
         ],
         "awards": [],
@@ -478,34 +585,14 @@
           }
         ]
       },
-      "layout": "A",
-      "productImages": [
-        {
-          "src": "images/ingpsy-2.webp",
-          "caption": "Endprodukt (1/2)"
-        },
-        {
-          "src": "images/ingpsy-iteration-4.webp",
-          "caption": "Endprodukt (2/2)"
-        }
-      ],
-      "fanImages": [
-        {
-          "src": "images/ingpsy-3.webp",
-          "caption": "Verwendete Guidelines (Microsoft)"
-        },
-        {
-          "src": "images/ingpsy-iteration-4.webp",
-          "caption": "Interaktionsflows"
-        }
-      ]
+      "layout": "A"
     },
     {
       "id": "automation-bias",
       "type": "project",
       "color": "#a81f56",
-      "order": 3,
-      "cover": "images/vp1-system-1-V2.webp",
+      "order": 4,
+      "cover": "images/vp1-system-1-V2.png",
       "gallery": [],
       "de": {
         "title": "Vergleichsstudie zweier Decision-Support-Systeme zum Automation Bias",
@@ -520,11 +607,11 @@
         "citation": "",
         "links": [
           {
-            "label": "Demo 1",
+            "label": "Demo (Variante 1)",
             "url": "https://tinobreier.github.io/vp1-dss-abr/"
           },
           {
-            "label": "Demo 2",
+            "label": "Demo (Variante 2)",
             "url": "https://tinobreier.github.io/vp1-dss-abs/"
           }
         ],
@@ -600,7 +687,16 @@
           }
         ],
         "awards": [],
-        "iteration": []
+        "iteration": [
+          {
+            "src": "images/vp1-system-1-V2.png",
+            "caption": "Variante 1: AB-fördernd"
+          },
+          {
+            "src": "images/vp1-system-2-V2.png",
+            "caption": "Variante 2: AB-reduzierend"
+          }
+        ]
       },
       "en": {
         "title": "Comparative Study of Two Decision-Support Systems on Automation Bias",
@@ -706,40 +802,14 @@
           }
         ]
       },
-      "layout": "A",
-      "productImages": [
-        {
-          "src": "images/vp1-system-1-V2.webp",
-          "caption": "System (Variante 1)"
-        },
-        {
-          "src": "images/vp1-system-2-V2.webp",
-          "caption": "System (Variante 2)"
-        }
-      ],
-      "fanImages": [
-        {
-          "src": "images/vp1-system-2-V2.webp",
-          "caption": "Vergleichsvariante"
-        },
-        {
-          "src": "images/vp1-poster.webp",
-          "caption": "Wissenschaftliches Poster"
-        }
-      ],
-      "evidenceImages": [
-        {
-          "src": "images/vp1-poster.webp",
-          "caption": "Wissenschaftliches Poster"
-        }
-      ]
+      "layout": "A"
     },
     {
       "id": "lernvideo-transkript",
       "type": "project",
       "color": "#6a3fa0",
-      "order": 4,
-      "cover": "images/bpro-poster-1.webp",
+      "order": 5,
+      "cover": "images/bpro-poster-2.png",
       "gallery": [],
       "de": {
         "title": "Interaktive Kopplung von Lernvideos und Transkripten für Studierende",
@@ -831,6 +901,14 @@
           {
             "src": "images/bpro-sketches-2.png",
             "caption": "Sketches: feinere Abläufe"
+          },
+          {
+            "src": "images/bpro-poster-2.png",
+            "caption": "Zwei Systemvarianten"
+          },
+          {
+            "src": "images/bpro-poster-3.png",
+            "caption": "Prozessübersicht"
           }
         ]
       },
@@ -935,202 +1013,14 @@
           }
         ]
       },
-      "layout": "A",
-      "productImages": [
-        {
-          "src": "images/bpro-poster-1.webp",
-          "caption": "Poster zum Endprodukt (1/3)"
-        },
-        {
-          "src": "images/bpro-poster-2.webp",
-          "caption": "Poster zum Endprodukt (2/3)"
-        },
-        {
-          "src": "images/bpro-poster-3.webp",
-          "caption": "Poster zum Endprodukt (3/3)"
-        }
-      ],
-      "fanImages": [
-        {
-          "src": "images/bpro-poster-2.webp",
-          "caption": "Zwei Varianten"
-        },
-        {
-          "src": "images/bpro-poster-3.webp",
-          "caption": "Weg von Sketches zu Produkt"
-        }
-      ],
-      "evidenceImages": [
-        {
-          "src": "images/bpro-data.webp",
-          "caption": "Vergleich der INTUI-Dimensionen"
-        }
-      ]
-    },
-    {
-      "id": "nui-fotocollage",
-      "type": "project",
-      "color": "#2c68a4",
-      "order": 5,
-      "cover": "images/nui-poster-4.webp",
-      "gallery": [],
-      "de": {
-        "title": "Nahtlose Cross-Device-Kollaboration mittels sensomotorischer Metaphern",
-        "tag": "Studienprojekt",
-        "kind": "Studienprojekt",
-        "team": "3er-Team",
-        "scope": "Konzeption und prototypische Umsetzung eines Natural User Interface",
-        "teaser": "Geräteübergreifendes System zur nahtlosen Kollaboration ohne Hürden durch komplexe Setups.",
-        "problem": "Beengtes Sitzen um einen PC, ungleiche Teilhabe und aufwendige Datenübertragung erschweren die Zusammenarbeit.",
-        "method": "Einsatz von AprilTag-Markererkennung (WebAssembly/JS), Cross-Device-Kommunikation via WebRTC sowie sensomotorische Metaphern, etwa die Foto-Übertragung per Swipe vom Smartphone auf das gemeinsame Tablet.",
-        "result": "Webbasierter Prototyp für die gemeinsame Collage-Erstellung mit räumlicher Awareness (Territoriality) und ad-hoc Konnektivität über Geräte-Grenzen hinweg.",
-        "citation": "",
-        "links": [
-          {
-            "label": "Demo",
-            "url": "https://tinobreier.github.io/nui-photocollage/"
-          }
-        ],
-        "metaBar": [
-          {
-            "label": "Team",
-            "value": "3er-Team"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "Kollaborierende Gruppen"
-          }
-        ],
-        "role": "Konzeption und prototypische Umsetzung eines Natural User Interface",
-        "goal": "Eine natürliche Kommunikationssituation schaffen mit Bewegungsfreiheit, einfachem Einbringen von Fotos und minimalem Setup.",
-        "process": [],
-        "processText": "Natural User Interface auf Basis von AprilTag-Markererkennung, WebRTC und sensomotorischen Metaphern",
-        "methods": [
-          "AprilTag-Markererkennung",
-          "WebAssembly/JS",
-          "WebRTC",
-          "Cross-Device Interaction",
-          "Sensomotorische Metaphern"
-        ],
-        "sample": "",
-        "architecture": "",
-        "outcome": "Tool zur gemeinsamen Collage-Erstellung mit Kontextbewusstsein sowie ad-hoc Konnektivität & Interaktion über Geräte-Grenzen hinweg.",
-        "finding": "Sensomotorische Metaphern und Image Schemas lassen Systeme intuitiver wirken, besonders für technisch weniger versierte Menschen.",
-        "evidence": [],
-        "awards": [],
-        "iteration": []
-      },
-      "en": {
-        "title": "Seamless Cross-Device Collaboration Through Sensorimotor Metaphors",
-        "tag": "Course Project",
-        "kind": "Course Project",
-        "team": "Team of 3",
-        "scope": "Concept and prototypical implementation of a natural user interface",
-        "teaser": "Cross-device system for seamless collaboration without the hurdles of complex setups.",
-        "problem": "Cramped seating around a single PC, unequal participation and tedious file transfers hinder collaboration.",
-        "method": "AprilTag marker detection (WebAssembly/JS), cross-device communication via WebRTC, and sensorimotor metaphors such as transferring a photo by swiping from a smartphone onto the shared tablet.",
-        "result": "Web-based prototype for collaborative collage creation with spatial awareness (territoriality) and ad-hoc connectivity across device boundaries.",
-        "citation": "",
-        "links": [
-          {
-            "label": "Demo",
-            "url": "https://tinobreier.github.io/nui-photocollage/"
-          }
-        ],
-        "metaBar": [
-          {
-            "label": "Team",
-            "value": "Team of 3"
-          },
-          {
-            "label": "Audience",
-            "value": "Collaborating groups"
-          }
-        ],
-        "role": "Concept and prototypical implementation of a natural user interface",
-        "goal": "Create a natural communication setting with freedom of movement, effortless photo sharing and minimal setup.",
-        "process": [],
-        "processText": "A natural user interface built on AprilTag marker detection, WebRTC and sensorimotor metaphors",
-        "methods": [
-          "AprilTag marker detection",
-          "WebAssembly/JS",
-          "WebRTC",
-          "Cross-device interaction",
-          "Sensorimotor metaphors"
-        ],
-        "sample": "",
-        "architecture": "",
-        "outcome": "A tool for collaborative collage creation with spatial awareness and ad-hoc connectivity across device boundaries.",
-        "finding": "Sensorimotor metaphors and image schemas make systems feel more intuitive, particularly for less technically confident people.",
-        "evidence": [],
-        "awards": [],
-        "iteration": [
-          {
-            "src": "images/nui-poster-1.png",
-            "caption": "Project idea"
-          },
-          {
-            "src": "images/nui-poster-3.png",
-            "caption": "In detail: smartphone"
-          },
-          {
-            "src": "images/nui-poster-6.png",
-            "caption": "In detail: tablet"
-          },
-          {
-            "src": "images/nui-poster7.png",
-            "caption": "Collaborative collage"
-          }
-        ]
-      },
-      "layout": "A",
-      "fanImages": [
-        {
-          "src": "images/nui-poster-1.webp",
-          "caption": "Poster zum Konzept"
-        },
-        {
-          "src": "images/nui-poster-2.webp",
-          "caption": "Poster zum Nutzen/Wert des Systems"
-        }
-      ],
-      "productImages": [
-        {
-          "src": "images/nui-poster7.webp",
-          "caption": "Poster (1/7)"
-        },
-        {
-          "src": "images/nui-poster-1.webp",
-          "caption": "Poster (2/7)"
-        },
-        {
-          "src": "images/nui-poster-2.webp",
-          "caption": "Poster (3/7)"
-        },
-        {
-          "src": "images/nui-poster-3.webp",
-          "caption": "Poster (4/7)"
-        },
-        {
-          "src": "images/nui-poster-4.webp",
-          "caption": "Poster (5/7)"
-        },
-        {
-          "src": "images/nui-poster-5.webp",
-          "caption": "Poster (6/7)"
-        },
-        {
-          "src": "images/nui-poster-6.webp",
-          "caption": "Poster (7/7)"
-        }
-      ]
+      "layout": "A"
     },
     {
       "id": "akku-guidelines",
       "type": "project",
       "color": "#7d1f3d",
       "order": 6,
-      "cover": "images/motemci-poster-design.webp",
+      "cover": "images/motemci-poster-design.png",
       "gallery": [],
       "layout": "A",
       "de": {
@@ -1282,20 +1172,181 @@
         ],
         "awards": [],
         "iteration": []
+      }
+    },
+    {
+      "id": "vr-museum",
+      "type": "project",
+      "color": "#3d6b1b",
+      "order": 7,
+      "cover": "images/vp2-vr-1.png",
+      "gallery": [],
+      "de": {
+        "title": "Informationsvisualisierung in einem VR-Museum",
+        "tag": "Studienprojekt",
+        "kind": "Studienprojekt",
+        "team": "2er-Team",
+        "scope": "Fallstudienanalyse und iteratives Prototyping mit Schwerpunkt VR-Interaktionsdesign, Informationsvisualisierung und 3D-Prototyping",
+        "teaser": "3D-Anwendung zur immersiven Informations- & Wissensvermittlung in einem virtuellen Museum.",
+        "problem": "VR eröffnet neuartige Wege der Wissensvermittlung, birgt jedoch die Gefahr kognitiver Überladung und damit den Verlust von Immersion und Präsenz.",
+        "method": "Fallstudienanalyse von VR-Museumsanwendungen, iteratives Prototyping auf Basis der Literatur sowie technische Umsetzung eines funktionalen VR-Prototyps in Unity.",
+        "result": "Ein Prototyp zur menschzentrierten Informationsvermittlung in VR, der zeigt, wie komplexe Exponat- und Rauminformationen ohne Verlust der Präsenz und bei minimierter kognitiver Beanspruchung vermittelt werden können.",
+        "citation": "",
+        "links": [],
+        "metaBar": [
+          {
+            "label": "Team",
+            "value": "2er-Team"
+          },
+          {
+            "label": "Tools",
+            "value": "Figma, Unity"
+          },
+          {
+            "label": "Zielgruppe",
+            "value": "Museumsbesucher"
+          }
+        ],
+        "role": "Fallstudienanalyse, iteratives Prototyping, Schwerpunkt VR-Interaktionsdesign und Informationsvisualisierung",
+        "goal": "Interaktionskonzepte für VR, die Lernförderung und hedonische Qualität (Immersion) harmonisch koppeln.",
+        "process": [
+          {
+            "label": "Literaturrecherche",
+            "note": "Erwartungen der Zielgruppe"
+          },
+          {
+            "label": "Fallstudienanalyse",
+            "note": "Louvre, Getty, CMATO"
+          },
+          {
+            "label": "Konzept & Mockups",
+            "note": "Figma"
+          },
+          {
+            "label": "VR-Prototyp",
+            "note": "Unity"
+          }
+        ],
+        "processText": "Fallstudienanalyse existierender VR-Museen als Ausgangspunkt für einen iterativ entwickelten Unity-Prototyp",
+        "methods": [
+          "Fallstudienanalyse",
+          "Iteratives Prototyping",
+          "Unity",
+          "3D-Prototyping",
+          "Informationsvisualisierung"
+        ],
+        "sample": "",
+        "architecture": "",
+        "outcome": "Prototyp zur menschzentrierten Informationsdarstellung in VR, der zeigt, wie komplexe Exponat- & Rauminformationen bei minimierter kognitiver Beanspruchung vermittelt werden können.",
+        "finding": "Immersive VR-Welten kosten kognitive Ressourcen; damit Überladung den Lernerfolg nicht unterdrückt, muss die Informationsdarstellung sie gezielt abfedern.",
+        "evidence": [],
+        "awards": [],
+        "iteration": [
+          {
+            "src": "images/vp2-sketches.png",
+            "caption": "Sketches"
+          },
+          {
+            "src": "images/vp2-architektur.png",
+            "caption": "System-Architektur"
+          },
+          {
+            "src": "images/vp2-mockups.png",
+            "caption": "UI Mockups (Figma)"
+          },
+          {
+            "src": "images/vp2-vr-1.png",
+            "caption": "VR-Prototyp (Unity)"
+          }
+        ]
       },
-      "productImages": [
-        {
-          "src": "images/motemci-poster-design.webp",
-          "caption": "Poster zu den Guidelines"
-        }
-      ]
+      "en": {
+        "title": "Information Visualisation in a VR Museum",
+        "tag": "Course Project",
+        "kind": "Course Project",
+        "team": "Team of 2",
+        "scope": "Case-study analysis and iterative prototyping, focused on VR interaction design, information visualisation and 3D prototyping",
+        "teaser": "A 3D VR application for immersive information and knowledge delivery in a virtual museum.",
+        "problem": "VR opens new routes for conveying knowledge, yet risks cognitive overload and with it the loss of immersion and presence.",
+        "method": "Case-study analysis of VR museum applications, iterative prototyping based on the literature, and technical implementation of a functional VR prototype in Unity.",
+        "result": "A prototype for human-centred information delivery in VR, showing how complex exhibit and room information can be conveyed without losing presence and with minimised cognitive load.",
+        "citation": "",
+        "links": [],
+        "metaBar": [
+          {
+            "label": "Team",
+            "value": "Team of 2"
+          },
+          {
+            "label": "Tools",
+            "value": "Figma, Unity"
+          },
+          {
+            "label": "Audience",
+            "value": "Museum visitors"
+          }
+        ],
+        "role": "Case-study analysis, iterative prototyping, focused on VR interaction design and information visualisation",
+        "goal": "VR interaction concepts that couple learning and hedonic quality (immersion) harmoniously.",
+        "process": [
+          {
+            "label": "Literature review",
+            "note": "audience expectations"
+          },
+          {
+            "label": "Case-study analysis",
+            "note": "Louvre, Getty, CMATO"
+          },
+          {
+            "label": "Concept & mockups",
+            "note": "Figma"
+          },
+          {
+            "label": "VR prototype",
+            "note": "Unity"
+          }
+        ],
+        "processText": "A case-study analysis of existing VR museums as the starting point for an iteratively developed Unity prototype",
+        "methods": [
+          "Case-study analysis",
+          "Iterative prototyping",
+          "Unity",
+          "3D prototyping",
+          "Information visualisation"
+        ],
+        "sample": "",
+        "architecture": "",
+        "outcome": "A prototype for human-centred information delivery in VR, showing how complex exhibit and room information can be conveyed at minimised cognitive load.",
+        "finding": "Immersive VR worlds cost cognitive resources; for overload not to suppress learning, the information display has to absorb it deliberately.",
+        "evidence": [],
+        "awards": [],
+        "iteration": [
+          {
+            "src": "images/vp2-sketches.png",
+            "caption": "Sketches"
+          },
+          {
+            "src": "images/vp2-architektur.png",
+            "caption": "System architecture"
+          },
+          {
+            "src": "images/vp2-mockups.png",
+            "caption": "UI mockups (Figma)"
+          },
+          {
+            "src": "images/vp2-vr-1.png",
+            "caption": "VR prototype (Unity)"
+          }
+        ]
+      },
+      "layout": "A"
     },
     {
       "id": "mobtis-praktikum",
       "type": "internship",
       "color": "#8c2f1c",
-      "order": 7,
-      "cover": "images/mobtis-1.webp",
+      "order": 8,
+      "cover": "images/mobtis-1.png",
       "gallery": [],
       "de": {
         "title": "Mobiler Cross-Reality-Prototyp für einen Campus-Alltag",
@@ -1361,6 +1412,10 @@
         "evidence": [],
         "awards": [],
         "iteration": [
+          {
+            "src": "images/mobtis-1.png",
+            "caption": "Übergang im Campus-Szenario"
+          },
           {
             "src": "images/mobtis-2.png",
             "caption": "Transition Cues zwischen den Realitätsgraden"
@@ -1441,34 +1496,14 @@
           }
         ]
       },
-      "layout": "A",
-      "productImages": [
-        {
-          "src": "images/mobtis-example.webp",
-          "caption": "Transition Cue von Realität zu VR"
-        },
-        {
-          "src": "images/mobtis-1.webp",
-          "caption": "AR-gestützte Navigation"
-        }
-      ],
-      "fanImages": [
-        {
-          "src": "images/mobtis-2.webp",
-          "caption": "Transition Cues zwischen den Realitätsgraden (Realität, AR, VR)"
-        },
-        {
-          "src": "images/mobtis-example.webp",
-          "caption": "Transition Cue von Realität zu VR"
-        }
-      ]
+      "layout": "A"
     },
     {
       "id": "haltestellung",
       "type": "project",
       "color": "#14576e",
-      "order": 8,
-      "cover": "images/haltestellung-2.webp",
+      "order": 9,
+      "cover": "images/haltestellung-2.png",
       "gallery": [],
       "de": {
         "title": "Haltestellung – Standortbasiertes Strategie-Mobile-Game",
@@ -1612,229 +1647,14 @@
           }
         ]
       },
-      "layout": "C",
-      "fanImages": [
-        {
-          "src": "images/haltestellung-1.webp",
-          "caption": "Drei spielbare Epochen"
-        },
-        {
-          "src": "images/haltestellung-4.webp",
-          "caption": "Spielfeld und UI"
-        }
-      ],
-      "productImages": [
-        {
-          "src": "images/haltestellung-1.webp",
-          "caption": "Drei spielbare Epochen"
-        },
-        {
-          "src": "images/haltestellung-4.webp",
-          "caption": "Spielfeld und UI"
-        },
-        {
-          "src": "images/haltestellung-2.webp",
-          "caption": "Fokus auf viszerale Stimulation"
-        },
-        {
-          "src": "images/haltestellung-3.webp",
-          "caption": "Gegner-Sprites"
-        }
-      ]
-    },
-    {
-      "id": "vr-museum",
-      "type": "project",
-      "color": "#3d6b1b",
-      "order": 9,
-      "cover": "images/vp2-vr-1.webp",
-      "gallery": [],
-      "de": {
-        "title": "Informationsvisualisierung in einem VR-Museum",
-        "tag": "Studienprojekt",
-        "kind": "Studienprojekt",
-        "team": "2er-Team",
-        "scope": "Fallstudienanalyse und iteratives Prototyping mit Schwerpunkt VR-Interaktionsdesign, Informationsvisualisierung und 3D-Prototyping",
-        "teaser": "3D-Anwendung zur immersiven Informations- & Wissensvermittlung in einem virtuellen Museum.",
-        "problem": "VR eröffnet neuartige Wege der Wissensvermittlung, birgt jedoch die Gefahr kognitiver Überladung und damit den Verlust von Immersion und Präsenz.",
-        "method": "Fallstudienanalyse von VR-Museumsanwendungen, iteratives Prototyping auf Basis der Literatur sowie technische Umsetzung eines funktionalen VR-Prototyps in Unity.",
-        "result": "Ein Prototyp zur menschzentrierten Informationsvermittlung in VR, der zeigt, wie komplexe Exponat- und Rauminformationen ohne Verlust der Präsenz und bei minimierter kognitiver Beanspruchung vermittelt werden können.",
-        "citation": "",
-        "links": [],
-        "metaBar": [
-          {
-            "label": "Team",
-            "value": "2er-Team"
-          },
-          {
-            "label": "Tools",
-            "value": "Figma, Unity"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "Museumsbesucher"
-          }
-        ],
-        "role": "Fallstudienanalyse, iteratives Prototyping, Schwerpunkt VR-Interaktionsdesign und Informationsvisualisierung",
-        "goal": "Interaktionskonzepte für VR, die Lernförderung und hedonische Qualität (Immersion) harmonisch koppeln.",
-        "process": [
-          {
-            "label": "Literaturrecherche",
-            "note": "Erwartungen der Zielgruppe"
-          },
-          {
-            "label": "Fallstudienanalyse",
-            "note": "Louvre, Getty, CMATO"
-          },
-          {
-            "label": "Konzept & Mockups",
-            "note": "Figma"
-          },
-          {
-            "label": "VR-Prototyp",
-            "note": "Unity"
-          }
-        ],
-        "processText": "Fallstudienanalyse existierender VR-Museen als Ausgangspunkt für einen iterativ entwickelten Unity-Prototyp",
-        "methods": [
-          "Fallstudienanalyse",
-          "Iteratives Prototyping",
-          "Unity",
-          "3D-Prototyping",
-          "Informationsvisualisierung"
-        ],
-        "sample": "",
-        "architecture": "",
-        "outcome": "Prototyp zur menschzentrierten Informationsdarstellung in VR, der zeigt, wie komplexe Exponat- & Rauminformationen bei minimierter kognitiver Beanspruchung vermittelt werden können.",
-        "finding": "Immersive VR-Welten kosten kognitive Ressourcen; damit Überladung den Lernerfolg nicht unterdrückt, muss die Informationsdarstellung sie gezielt abfedern.",
-        "evidence": [],
-        "awards": [],
-        "iteration": [
-          {
-            "src": "images/vp2-sketches.png",
-            "caption": "Sketches"
-          },
-          {
-            "src": "images/vp2-architektur.png",
-            "caption": "System-Architektur"
-          },
-          {
-            "src": "images/vp2-mockups.png",
-            "caption": "UI Mockups (Figma)"
-          }
-        ]
-      },
-      "en": {
-        "title": "Information Visualisation in a VR Museum",
-        "tag": "Course Project",
-        "kind": "Course Project",
-        "team": "Team of 2",
-        "scope": "Case-study analysis and iterative prototyping, focused on VR interaction design, information visualisation and 3D prototyping",
-        "teaser": "A 3D VR application for immersive information and knowledge delivery in a virtual museum.",
-        "problem": "VR opens new routes for conveying knowledge, yet risks cognitive overload and with it the loss of immersion and presence.",
-        "method": "Case-study analysis of VR museum applications, iterative prototyping based on the literature, and technical implementation of a functional VR prototype in Unity.",
-        "result": "A prototype for human-centred information delivery in VR, showing how complex exhibit and room information can be conveyed without losing presence and with minimised cognitive load.",
-        "citation": "",
-        "links": [],
-        "metaBar": [
-          {
-            "label": "Team",
-            "value": "Team of 2"
-          },
-          {
-            "label": "Tools",
-            "value": "Figma, Unity"
-          },
-          {
-            "label": "Audience",
-            "value": "Museum visitors"
-          }
-        ],
-        "role": "Case-study analysis, iterative prototyping, focused on VR interaction design and information visualisation",
-        "goal": "VR interaction concepts that couple learning and hedonic quality (immersion) harmoniously.",
-        "process": [
-          {
-            "label": "Literature review",
-            "note": "audience expectations"
-          },
-          {
-            "label": "Case-study analysis",
-            "note": "Louvre, Getty, CMATO"
-          },
-          {
-            "label": "Concept & mockups",
-            "note": "Figma"
-          },
-          {
-            "label": "VR prototype",
-            "note": "Unity"
-          }
-        ],
-        "processText": "A case-study analysis of existing VR museums as the starting point for an iteratively developed Unity prototype",
-        "methods": [
-          "Case-study analysis",
-          "Iterative prototyping",
-          "Unity",
-          "3D prototyping",
-          "Information visualisation"
-        ],
-        "sample": "",
-        "architecture": "",
-        "outcome": "A prototype for human-centred information delivery in VR, showing how complex exhibit and room information can be conveyed at minimised cognitive load.",
-        "finding": "Immersive VR worlds cost cognitive resources; for overload not to suppress learning, the information display has to absorb it deliberately.",
-        "evidence": [],
-        "awards": [],
-        "iteration": [
-          {
-            "src": "images/vp2-sketches.png",
-            "caption": "Sketches"
-          },
-          {
-            "src": "images/vp2-architektur.png",
-            "caption": "System architecture"
-          },
-          {
-            "src": "images/vp2-mockups.png",
-            "caption": "UI mockups (Figma)"
-          },
-          {
-            "src": "images/vp2-vr-1.png",
-            "caption": "VR prototype (Unity)"
-          }
-        ]
-      },
-      "layout": "A",
-      "fanImages": [
-        {
-          "src": "images/vp2-vr-2.webp",
-          "caption": "Informationsvisualisierung entlang eines Exponats"
-        },
-        {
-          "src": "images/vp2-vr-3.webp",
-          "caption": "Information Cues"
-        }
-      ],
-      "productImages": [
-        {
-          "src": "images/vp2-vr-1.webp",
-          "caption": "Verortete Rauminformationen"
-        },
-        {
-          "src": "images/vp2-vr-2.webp",
-          "caption": "Informationsvisualisierung entlang eines Exponats"
-        },
-        {
-          "src": "images/vp2-vr-3.webp",
-          "caption": "Information Cues"
-        }
-      ]
+      "layout": "C"
     },
     {
       "id": "vr-angeln",
       "type": "project",
       "color": "#2b6b4f",
       "order": 10,
-      "cover": "images/cr-screen-1.webp",
+      "cover": "images/cr-screen-1.png",
       "gallery": [],
       "de": {
         "title": "VR-Angelsimulator mit physikbasierter Gestensteuerung",
@@ -1958,175 +1778,13 @@
           }
         ]
       },
-      "layout": "C",
-      "productImages": [
-        {
-          "src": "images/cr-screen-1.webp",
-          "caption": "Cover-Bild"
-        },
-        {
-          "src": "images/cr-screen-3.webp",
-          "caption": "Angel-Mechanik"
-        },
-        {
-          "src": "images/cr-screen-2.webp",
-          "caption": "Markierung von Angel-Hotspots"
-        },
-        {
-          "src": "images/cr-screen-4.webp",
-          "caption": "Manövrieren des Angelboots"
-        }
-      ],
-      "fanImages": [
-        {
-          "src": "images/cr-screen-3.webp",
-          "caption": "Angel-Mechanik"
-        },
-        {
-          "src": "images/cr-screen-4.webp",
-          "caption": "Manövrieren des Angelboots"
-        }
-      ]
-    },
-    {
-      "id": "luebactive",
-      "type": "project",
-      "color": "#a36208",
-      "order": 11,
-      "cover": "images/luebactive-logo.webp",
-      "gallery": [],
-      "de": {
-        "title": "Lübactive – Sport-App für Bewegung und Erkundung in Lübeck",
-        "tag": "Studienprojekt",
-        "kind": "Studienprojekt",
-        "team": "6er-Team",
-        "scope": "Schwerpunkt standortbasiertes soziales Konzept sowie konsistenter Markenauftritt (Logo, Werbeflyer, App-Design)",
-        "teaser": "Gamifiziertes Fitness-App-Konzept, das sportliche Betätigung mit der spielerischen Erkundung Lübecks und sozialer Interaktion verbindet.",
-        "problem": "Für regelmäßige Bewegung im Freien fehlt oft die Motivation, und neue soziale Kontakte in einer Stadt zu knüpfen kostet Überwindung.",
-        "method": "Tangram-Methode, 8,5-Charakterrollen-Methode, iteratives Prototyping sowie Anfertigung eines Branded Design Systems.",
-        "result": "App-Konzept, das zeigt, wie städtischer Raum durch Gamification als interaktive Sport- und Begegnungsumgebung verwendet werden kann.",
-        "citation": "",
-        "links": [],
-        "metaBar": [
-          {
-            "label": "Team",
-            "value": "6er-Team"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "Lübecker"
-          }
-        ],
-        "role": "Standortbasiertes soziales Konzept und konsistenter Markenauftritt (Logo, Werbeflyer, App-Design)",
-        "goal": "Eine Synergie aus Outdoor-Fitness, ortsbezogener Erkundung und Gamification herstellen.",
-        "process": [],
-        "processText": "Standortbasiertes Gamification-Konzept, iterativ prototypisiert und in einem Branded Design System verankert",
-        "methods": [
-          "Tangram-Methode",
-          "8,5-Charakterrollen-Methode",
-          "Iteratives Prototyping",
-          "Branded Design System"
-        ],
-        "sample": "",
-        "architecture": "",
-        "outcome": "App-Konzept, das zeigt, wie städtischer Raum durch Gamification für Sport- & Begegnungschancen zugleich verwendet werden kann.",
-        "finding": "Mehrere Anreize verstärken sich gegenseitig und senken die Hürde für körperliche Aktivität; ohne konsequent eingehaltene UI-Grundregeln entsteht jedoch Reibung, die diese Motivatoren ausbremst.",
-        "evidence": [],
-        "awards": [],
-        "iteration": []
-      },
-      "en": {
-        "title": "Lübactive – A Sports App for Moving Through and Exploring Lübeck",
-        "tag": "Course Project",
-        "kind": "Course Project",
-        "team": "Team of 6",
-        "scope": "Focus on a location-based social concept and a consistent brand appearance (logo, promotional flyer, app design)",
-        "teaser": "A gamified fitness app connecting exercise at virtual city stations with the playful exploration of Lübeck and social interaction.",
-        "problem": "Regular outdoor exercise often lacks motivation, and making new social contacts in a city takes effort.",
-        "method": "Tangram method, 8.5 character roles method, iterative prototyping, and production of a branded design system.",
-        "result": "An app concept showing how urban space can be used as an interactive environment for sport and encounter through gamification.",
-        "citation": "",
-        "links": [],
-        "metaBar": [
-          {
-            "label": "Team",
-            "value": "Team of 6"
-          },
-          {
-            "label": "Audience",
-            "value": "Lübeck residents"
-          }
-        ],
-        "role": "Location-based social concept and consistent brand appearance (logo, promotional flyer, app design)",
-        "goal": "Create a synergy of outdoor fitness, place-based exploration and gamification.",
-        "process": [],
-        "processText": "A location-based gamification concept, prototyped iteratively and anchored in a branded design system",
-        "methods": [
-          "Tangram method",
-          "8.5 character roles",
-          "Iterative prototyping",
-          "Branded design system"
-        ],
-        "sample": "",
-        "architecture": "",
-        "outcome": "An app concept showing how gamification turns urban space into an environment for sport and encounter alike.",
-        "finding": "Several incentives reinforce one another and lower the barrier to physical activity; without consistently applied UI fundamentals, however, friction slows those motivators down.",
-        "evidence": [],
-        "awards": [],
-        "iteration": [
-          {
-            "src": "images/luebactive-logo.png",
-            "caption": "Logo and brand appearance"
-          },
-          {
-            "src": "images/luebactive-app1.png",
-            "caption": "City stations"
-          },
-          {
-            "src": "images/luebactive-app2.png",
-            "caption": "An exercise at a station"
-          },
-          {
-            "src": "images/luebactive-app3.png",
-            "caption": "Social interaction"
-          }
-        ]
-      },
-      "layout": "A",
-      "productImages": [
-        {
-          "src": "images/luebactive-app1.webp",
-          "caption": "App UI (1/3)"
-        },
-        {
-          "src": "images/luebactive-app3.webp",
-          "caption": "App UI (2/3)"
-        },
-        {
-          "src": "images/luebactive-app2.webp",
-          "caption": "App UI (3/3)"
-        },
-        {
-          "src": "images/luebactive-logo.webp",
-          "caption": "Logo von Lübactive"
-        }
-      ],
-      "fanImages": [
-        {
-          "src": "images/luebactive-app1.webp",
-          "caption": "Homescreen der App"
-        },
-        {
-          "src": "images/luebactive-app2.webp",
-          "caption": "Gamification-Mechanik"
-        }
-      ]
+      "layout": "C"
     },
     {
       "id": "keltis",
       "type": "project",
       "color": "#3f4a8a",
-      "order": 12,
+      "order": 11,
       "cover": "",
       "gallery": [],
       "de": {
@@ -2226,143 +1884,260 @@
       "layout": "C"
     },
     {
-      "id": "design-guidance-xr",
+      "id": "luebactive",
       "type": "project",
-      "color": "#1565c0",
-      "order": 13,
-      "cover": "",
+      "color": "#a36208",
+      "order": 12,
+      "cover": "images/luebactive-logo.png",
       "gallery": [],
       "de": {
-        "title": "Design Guidance für Cross-Reality Transitional Interfaces",
-        "tag": "Abschlussarbeit",
-        "kind": "Abschlussarbeit (M.Sc.)",
-        "team": "Solo",
-        "scope": "Vollständiger Prozess: Studienplanung, Rekrutierung, qualitative Auswertung, Aufstellung von Designhilfen, Rückbindung an die Literatur",
-        "teaser": "Co-Design-Studie mit professionellen Designern zur Ableitung von Gestaltungshilfen für neuartige Cross-Reality-Systeme.",
-        "problem": "Transitional Interfaces kombinieren die Vorteile von Realität, AR und VR, erzeugen an den Übergängen jedoch neuartige UX-Probleme und Reibungspunkte, für die praxisnahe Gestaltungshilfen fehlen.",
-        "method": "Planung und Durchführung einer Co-Design-Studie sowie Auswertung und Interpretation der Daten mittels Thematic Analysis und Affinity Diagramming.",
-        "result": "Konkrete Design Guidance sowie eine empirisch fundierte Reflexion des zugrunde liegenden Frameworks für Cross-Reality Transitional Interfaces.",
+        "title": "Lübactive – Sport-App für Bewegung und Erkundung in Lübeck",
+        "tag": "Studienprojekt",
+        "kind": "Studienprojekt",
+        "team": "6er-Team",
+        "scope": "Schwerpunkt standortbasiertes soziales Konzept sowie konsistenter Markenauftritt (Logo, Werbeflyer, App-Design)",
+        "teaser": "Gamifiziertes Fitness-App-Konzept, das sportliche Betätigung mit der spielerischen Erkundung Lübecks und sozialer Interaktion verbindet.",
+        "problem": "Für regelmäßige Bewegung im Freien fehlt oft die Motivation, und neue soziale Kontakte in einer Stadt zu knüpfen kostet Überwindung.",
+        "method": "Tangram-Methode, 8,5-Charakterrollen-Methode, iteratives Prototyping sowie Anfertigung eines Branded Design Systems.",
+        "result": "App-Konzept, das zeigt, wie städtischer Raum durch Gamification als interaktive Sport- und Begegnungsumgebung verwendet werden kann.",
         "citation": "",
         "links": [],
         "metaBar": [
           {
             "label": "Team",
-            "value": "Solo"
+            "value": "6er-Team"
           },
           {
             "label": "Zielgruppe",
-            "value": "Cross-Reality Designer"
+            "value": "Lübecker"
           }
         ],
-        "role": "Vollständiger Prozess: Studienplanung, Rekrutierung, qualitative Auswertung, Aufstellung von Designhilfen, Rückbindung an die Literatur",
-        "goal": "An das Expertenwissen professioneller AR/VR-Designer anknüpfen.",
-        "process": [
-          {
-            "label": "Planung",
-            "note": "Co-Design-Studie, Rekrutierung"
-          },
-          {
-            "label": "Durchführung",
-            "note": "acht Co-Design-Sessions"
-          },
-          {
-            "label": "Auswertung",
-            "note": "Thematic Analysis, Affinity Diagramming"
-          },
-          {
-            "label": "Design Guidance",
-            "note": "Rückbindung an die Literatur"
-          }
-        ],
-        "processText": "Co-Design-Studie mit professionellen AR/VR-Designern, qualitativ ausgewertet und an die Literatur rückgebunden",
+        "role": "Standortbasiertes soziales Konzept und konsistenter Markenauftritt (Logo, Werbeflyer, App-Design)",
+        "goal": "Eine Synergie aus Outdoor-Fitness, ortsbezogener Erkundung und Gamification herstellen.",
+        "process": [],
+        "processText": "Standortbasiertes Gamification-Konzept, iterativ prototypisiert und in einem Branded Design System verankert",
         "methods": [
-          "Co-Design-Studie",
-          "Thematic Analysis",
-          "Affinity Diagramming",
-          "Qualitative Auswertung"
+          "Tangram-Methode",
+          "8,5-Charakterrollen-Methode",
+          "Iteratives Prototyping",
+          "Branded Design System"
         ],
         "sample": "",
         "architecture": "",
-        "outcome": "Konkrete Design Guidance und eine empirisch fundierte Reflexion des Frameworks für Transitional Interfaces.",
-        "finding": "Um Reibungspunkte zu verringern, zählt vor allem das Zusammenspiel der drei Phasen, die das untersuchte Framework beschreibt.",
-        "evidence": [
+        "outcome": "App-Konzept, das zeigt, wie städtischer Raum durch Gamification für Sport- & Begegnungschancen zugleich verwendet werden kann.",
+        "finding": "Mehrere Anreize verstärken sich gegenseitig und senken die Hürde für körperliche Aktivität; ohne konsequent eingehaltene UI-Grundregeln entsteht jedoch Reibung, die diese Motivatoren ausbremst.",
+        "evidence": [],
+        "awards": [],
+        "iteration": [
           {
-            "value": "N = 16",
-            "label": "Teilnehmende (Designer)"
+            "src": "images/luebactive-logo.png",
+            "caption": "Logo und Markenauftritt"
           },
           {
-            "value": "164",
-            "label": "analysierte Design Moves"
+            "src": "images/luebactive-app1.png",
+            "caption": "Stadt-Stationen"
+          },
+          {
+            "src": "images/luebactive-app2.png",
+            "caption": "Übung an einer Station"
+          },
+          {
+            "src": "images/luebactive-app3.png",
+            "caption": "Soziale Interaktion"
           }
-        ],
-        "awards": [],
-        "iteration": []
+        ]
       },
       "en": {
-        "title": "Design Guidance for Cross-Reality Transitional Interfaces",
-        "tag": "Thesis",
-        "kind": "Master's Thesis",
-        "team": "Solo",
-        "scope": "Full process: study design, recruitment, qualitative analysis, establishing design guidance, tying the results back to the literature",
-        "teaser": "A co-design study with professional designers deriving design guidance for cross-reality systems.",
-        "problem": "Transitional interfaces combine the benefits of reality, AR and VR, yet the moves between them create novel UX problems and friction for which practical design guidance is missing.",
-        "method": "Planning and running a co-design study, plus analysis and interpretation of the data through thematic analysis and affinity diagramming.",
-        "result": "Concrete design guidance and an empirically grounded reflection on the underlying framework for cross-reality transitional interfaces.",
+        "title": "Lübactive – A Sports App for Moving Through and Exploring Lübeck",
+        "tag": "Course Project",
+        "kind": "Course Project",
+        "team": "Team of 6",
+        "scope": "Focus on a location-based social concept and a consistent brand appearance (logo, promotional flyer, app design)",
+        "teaser": "A gamified fitness app connecting exercise at virtual city stations with the playful exploration of Lübeck and social interaction.",
+        "problem": "Regular outdoor exercise often lacks motivation, and making new social contacts in a city takes effort.",
+        "method": "Tangram method, 8.5 character roles method, iterative prototyping, and production of a branded design system.",
+        "result": "An app concept showing how urban space can be used as an interactive environment for sport and encounter through gamification.",
         "citation": "",
         "links": [],
         "metaBar": [
           {
             "label": "Team",
-            "value": "Solo"
+            "value": "Team of 6"
           },
           {
             "label": "Audience",
-            "value": "Cross-reality designers"
+            "value": "Lübeck residents"
           }
         ],
-        "role": "Full process: study design, recruitment, qualitative analysis, establishing design guidance, tying the results back to the literature",
-        "goal": "Build on the expert knowledge of professional AR/VR designers.",
-        "process": [
-          {
-            "label": "Study design",
-            "note": "co-design study, recruitment"
-          },
-          {
-            "label": "Sessions",
-            "note": "eight co-design sessions"
-          },
-          {
-            "label": "Analysis",
-            "note": "thematic analysis, affinity diagramming"
-          },
-          {
-            "label": "Design guidance",
-            "note": "tied back to the literature"
-          }
-        ],
-        "processText": "A co-design study with professional AR/VR designers, analysed qualitatively and tied back to the literature",
+        "role": "Location-based social concept and consistent brand appearance (logo, promotional flyer, app design)",
+        "goal": "Create a synergy of outdoor fitness, place-based exploration and gamification.",
+        "process": [],
+        "processText": "A location-based gamification concept, prototyped iteratively and anchored in a branded design system",
         "methods": [
-          "Co-design study",
-          "Thematic analysis",
-          "Affinity diagramming",
-          "Qualitative analysis"
+          "Tangram method",
+          "8.5 character roles",
+          "Iterative prototyping",
+          "Branded design system"
         ],
         "sample": "",
         "architecture": "",
-        "outcome": "Concrete design guidance and an empirically grounded reflection on the framework for transitional interfaces.",
-        "finding": "Reducing friction depends above all on the interplay of the three phases the framework describes.",
-        "evidence": [
+        "outcome": "An app concept showing how gamification turns urban space into an environment for sport and encounter alike.",
+        "finding": "Several incentives reinforce one another and lower the barrier to physical activity; without consistently applied UI fundamentals, however, friction slows those motivators down.",
+        "evidence": [],
+        "awards": [],
+        "iteration": [
           {
-            "value": "N = 16",
-            "label": "Participants (designers)"
+            "src": "images/luebactive-logo.png",
+            "caption": "Logo and brand appearance"
           },
           {
-            "value": "164",
-            "label": "design moves analysed"
+            "src": "images/luebactive-app1.png",
+            "caption": "City stations"
+          },
+          {
+            "src": "images/luebactive-app2.png",
+            "caption": "An exercise at a station"
+          },
+          {
+            "src": "images/luebactive-app3.png",
+            "caption": "Social interaction"
+          }
+        ]
+      },
+      "layout": "A"
+    },
+    {
+      "id": "nui-fotocollage",
+      "type": "project",
+      "color": "#2c68a4",
+      "order": 13,
+      "cover": "images/nui-poster7.png",
+      "gallery": [],
+      "de": {
+        "title": "Nahtlose Cross-Device-Kollaboration mittels sensomotorischer Metaphern",
+        "tag": "Studienprojekt",
+        "kind": "Studienprojekt",
+        "team": "3er-Team",
+        "scope": "Konzeption und prototypische Umsetzung eines Natural User Interface",
+        "teaser": "Geräteübergreifendes System zur nahtlosen Kollaboration ohne Hürden durch komplexe Setups.",
+        "problem": "Beengtes Sitzen um einen PC, ungleiche Teilhabe und aufwendige Datenübertragung erschweren die Zusammenarbeit.",
+        "method": "Einsatz von AprilTag-Markererkennung (WebAssembly/JS), Cross-Device-Kommunikation via WebRTC sowie sensomotorische Metaphern, etwa die Foto-Übertragung per Swipe vom Smartphone auf das gemeinsame Tablet.",
+        "result": "Webbasierter Prototyp für die gemeinsame Collage-Erstellung mit räumlicher Awareness (Territoriality) und ad-hoc Konnektivität über Geräte-Grenzen hinweg.",
+        "citation": "",
+        "links": [
+          {
+            "label": "Demo",
+            "url": "https://tinobreier.github.io/nui-photocollage/"
           }
         ],
+        "metaBar": [
+          {
+            "label": "Team",
+            "value": "3er-Team"
+          },
+          {
+            "label": "Zielgruppe",
+            "value": "Kollaborierende Gruppen"
+          }
+        ],
+        "role": "Konzeption und prototypische Umsetzung eines Natural User Interface",
+        "goal": "Eine natürliche Kommunikationssituation schaffen mit Bewegungsfreiheit, einfachem Einbringen von Fotos und minimalem Setup.",
+        "process": [],
+        "processText": "Natural User Interface auf Basis von AprilTag-Markererkennung, WebRTC und sensomotorischen Metaphern",
+        "methods": [
+          "AprilTag-Markererkennung",
+          "WebAssembly/JS",
+          "WebRTC",
+          "Cross-Device Interaction",
+          "Sensomotorische Metaphern"
+        ],
+        "sample": "",
+        "architecture": "",
+        "outcome": "Tool zur gemeinsamen Collage-Erstellung mit Kontextbewusstsein sowie ad-hoc Konnektivität & Interaktion über Geräte-Grenzen hinweg.",
+        "finding": "Sensomotorische Metaphern und Image Schemas lassen Systeme intuitiver wirken, besonders für technisch weniger versierte Menschen.",
+        "evidence": [],
         "awards": [],
-        "iteration": []
+        "iteration": [
+          {
+            "src": "images/nui-poster-1.png",
+            "caption": "Projektidee"
+          },
+          {
+            "src": "images/nui-poster-3.png",
+            "caption": "Im Detail: Smartphone"
+          },
+          {
+            "src": "images/nui-poster-6.png",
+            "caption": "Im Detail: Tablet"
+          },
+          {
+            "src": "images/nui-poster7.png",
+            "caption": "Kollaborative Collage"
+          }
+        ]
+      },
+      "en": {
+        "title": "Seamless Cross-Device Collaboration Through Sensorimotor Metaphors",
+        "tag": "Course Project",
+        "kind": "Course Project",
+        "team": "Team of 3",
+        "scope": "Concept and prototypical implementation of a natural user interface",
+        "teaser": "Cross-device system for seamless collaboration without the hurdles of complex setups.",
+        "problem": "Cramped seating around a single PC, unequal participation and tedious file transfers hinder collaboration.",
+        "method": "AprilTag marker detection (WebAssembly/JS), cross-device communication via WebRTC, and sensorimotor metaphors such as transferring a photo by swiping from a smartphone onto the shared tablet.",
+        "result": "Web-based prototype for collaborative collage creation with spatial awareness (territoriality) and ad-hoc connectivity across device boundaries.",
+        "citation": "",
+        "links": [
+          {
+            "label": "Demo",
+            "url": "https://tinobreier.github.io/nui-photocollage/"
+          }
+        ],
+        "metaBar": [
+          {
+            "label": "Team",
+            "value": "Team of 3"
+          },
+          {
+            "label": "Audience",
+            "value": "Collaborating groups"
+          }
+        ],
+        "role": "Concept and prototypical implementation of a natural user interface",
+        "goal": "Create a natural communication setting with freedom of movement, effortless photo sharing and minimal setup.",
+        "process": [],
+        "processText": "A natural user interface built on AprilTag marker detection, WebRTC and sensorimotor metaphors",
+        "methods": [
+          "AprilTag marker detection",
+          "WebAssembly/JS",
+          "WebRTC",
+          "Cross-device interaction",
+          "Sensorimotor metaphors"
+        ],
+        "sample": "",
+        "architecture": "",
+        "outcome": "A tool for collaborative collage creation with spatial awareness and ad-hoc connectivity across device boundaries.",
+        "finding": "Sensorimotor metaphors and image schemas make systems feel more intuitive, particularly for less technically confident people.",
+        "evidence": [],
+        "awards": [],
+        "iteration": [
+          {
+            "src": "images/nui-poster-1.png",
+            "caption": "Project idea"
+          },
+          {
+            "src": "images/nui-poster-3.png",
+            "caption": "In detail: smartphone"
+          },
+          {
+            "src": "images/nui-poster-6.png",
+            "caption": "In detail: tablet"
+          },
+          {
+            "src": "images/nui-poster7.png",
+            "caption": "Collaborative collage"
+          }
+        ]
       },
       "layout": "A"
     },

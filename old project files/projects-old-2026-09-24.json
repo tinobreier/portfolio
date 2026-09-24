@@ -36,7 +36,7 @@
         "tag": "Abschlussarbeit",
         "kind": "Abschlussarbeit (B.Sc.)",
         "team": "Solo",
-        "scope": "Vollständiger Prozess: Analyse, Konzept, Prototyping, Web-Implementierung, formative und summative Evaluation",
+        "scope": "Vollständiger Prozess: Analyse, Konzept, Prototyping, Web-Entwicklung, formative und summative Evaluation",
         "teaser": "Mediendidaktisches, interaktives Web-Tool zur Vermittlung von Guidelines für die Mensch-KI-Interaktion in gemeinwohlorientierten Projekten.",
         "problem": "KI bietet großes Potenzial für den Gemeinwohl-Sektor, jedoch fehlen vielen Akteuren Kenntnisse, um die Interaktion zwischen Mensch und KI angemessen und menschzentriert zu gestalten.",
         "method": "Menschzentrierter Gestaltungsprozess (HCD, ISO 9241-210) über zwei Prototypen-Iterationen. Summative empirische Evaluation mit 40 Teilnehmenden anhand standardisierter Fragebögen (SUS, UEQ, ASQ, SEQ) in einem Mixed-Between-Within-ANOVA-Design.",
@@ -62,7 +62,7 @@
             "value": "Mitglieder gemeinwohlorientierter Projekte"
           }
         ],
-        "role": "Vollständiger Prozess: Analyse, Konzept, Prototyping, Web-Implementierung, formative und summative Evaluation",
+        "role": "Vollständiger Prozess: Analyse, Konzept, Prototyping, Web-Entwicklung, formative und summative Evaluation",
         "goal": "Fachfremden Personen Wissen zu KI und UX über ein Lern-Tool vermitteln.",
         "process": [
           {
@@ -85,16 +85,12 @@
         "processText": "Menschzentrierter Gestaltungsprozess über zwei Prototypen-Iterationen inklusive summativer empirischer Evaluation",
         "methods": [
           "HCD (ISO 9241-210)",
-          "Anforderungsanalyse",
-          "Benutzeranalyse",
-          "Aufgabenanalyse",
           "Personas",
           "Usability-Heuristiken (Nielsen)",
           "ARCS-Modell",
           "Marktanalyse",
           "Prototyping",
-          "Formative Evaluation",
-          "Web-Implementierung",
+          "Web-Entwicklung",
           "SUS",
           "UEQ",
           "SEQ",
@@ -157,9 +153,9 @@
         "tag": "Thesis",
         "kind": "Bachelor's Thesis",
         "team": "Solo",
-        "scope": "Full process: analysis, concept, prototyping, web implementation, formative and summative evaluation",
+        "scope": "Full process: analysis, concept, prototyping, web development, formative and summative evaluation",
         "teaser": "A media-didactic, interactive web tool teaching guidelines for human-AI interaction in public-interest projects.",
-        "problem": "AI holds great potential for the public-interest sector, but many actors lack the knowledge to shape human-AI interaction appropriately and in a human-centred way.",
+        "problem": "AI holds great potential for the public-interest sector, but project members often lack the specific knowledge to shape human-AI interaction appropriately and in a human-centred way.",
         "method": "Human-centred design process (HCD, ISO 9241-210) across two prototype iterations. Summative empirical evaluation with 40 participants using standardised questionnaires (SUS, UEQ, ASQ, SEQ) in a mixed between-within ANOVA design.",
         "result": "An interactive “dos and don'ts” tool that strengthens AI literacy along media-didactic principles, with evidence of high usability and positive UX.",
         "citation": "",
@@ -183,7 +179,7 @@
             "value": "Members of public-interest projects"
           }
         ],
-        "role": "Full process: analysis, concept, prototyping, web implementation, formative and summative evaluation",
+        "role": "Full process: analysis, concept, prototyping, web development, formative and summative evaluation",
         "goal": "Convey AI and UX knowledge to non-experts through a learning tool.",
         "process": [
           {
@@ -206,16 +202,12 @@
         "processText": "A human-centred design process across two prototype iterations, including a summative empirical evaluation",
         "methods": [
           "HCD (ISO 9241-210)",
-          "Requirements analysis",
-          "User analysis",
-          "Task analysis",
           "Personas",
           "Usability heuristics (Nielsen)",
           "ARCS model",
           "Market analysis",
           "Prototyping",
-          "Formative evaluation",
-          "Web implementation",
+          "Web development",
           "SUS",
           "UEQ",
           "SEQ",
@@ -378,7 +370,7 @@
         "evidence": [
           {
             "value": "12",
-            "label": "Teilnehmende in den Abstimmungs-Workshops"
+            "label": "Teilnehmende im Abstimmungs-Workshops"
           }
         ],
         "awards": [],
@@ -407,7 +399,7 @@
         "kind": "Course Project",
         "team": "Team of 4",
         "scope": "Focus: app and interaction design, prototyping, interdisciplinary workshop moderation",
-        "teaser": "A UI/UX concept for an AI-supported app in a medically sensitive context.",
+        "teaser": "A UI/UX concept for an AI-based insulin dosing app in a medically sensitive context.",
         "problem": "AI-based dosing suggestions in diabetes care only work if patients trust them, and that trust rests on traceability.",
         "method": "Engineering-psychology models (SEEV model) and Microsoft's Human-AI Interaction Guidelines as a foundation, iterative prototyping (low fidelity on paper, high fidelity in Figma), plus moderation of two alignment workshops across the design, analysis and evaluation teams.",
         "result": "A formatively evaluated high-fidelity interface concept that makes AI uncertainty and dosing recommendations traceable for patients through targeted transparency measures.",
@@ -568,7 +560,6 @@
         ],
         "processText": "Entwicklung eines AB-fördernden und eines AB-reduzierenden Systems zur Priorisierung in der Arbeitsvermittlung",
         "methods": [
-          "Literaturrecherche",
           "Use-Case-Diagramm",
           "Klassendiagramm",
           "Between-Subjects-Design",
@@ -619,16 +610,16 @@
         "scope": "Focus: concept and implementation of two prototypes, comparative study, quantitative data analysis",
         "teaser": "An empirical between-subjects study on reducing automation bias through targeted interface nudges in e-government.",
         "problem": "Automated decision-making invites excessive trust (automation bias, AB) and deskilling, because the interface sets no incentive for critical review.",
-        "method": "Development of one AB-encouraging and one AB-reducing prototype for prioritisation in job placement. An empirical between-subjects comparison (N = 19) using “negative consultations” as the behavioural measure, plus questionnaires on usability (SUS), trust (Körber), mental effort (Paas) and accountability (own scale).",
+        "method": "Development of one AB-encouraging and one AB-reducing prototype for prioritisation in unemployment placement. An empirical between-subjects comparison (N = 19) using “negative consultations” as the behavioural measure, plus questionnaires on usability (SUS), trust (Körber), mental effort (Paas) and accountability (own scale).",
         "result": "Both systems achieved high usability (SUS: 83.2 vs. 78.1), yet showed no significant difference in negative consultations (11 % vs. 9 %).",
         "citation": "",
         "links": [
           {
-            "label": "Demo 1",
+            "label": "Demo (variant 1)",
             "url": "https://tinobreier.github.io/vp1-dss-abr/"
           },
           {
-            "label": "Demo 2",
+            "label": "Demo (variant 2)",
             "url": "https://tinobreier.github.io/vp1-dss-abs/"
           }
         ],
@@ -642,7 +633,7 @@
             "value": "Employment advisors"
           }
         ],
-        "role": "Literature foundation, concept and implementation of two prototypes, comparative study, quantitative data analysis",
+        "role": "Focus: concept and implementation of two prototypes, comparative study, quantitative data analysis",
         "goal": "Empirically test design measures that deliberately encourage versus reduce automation bias.",
         "process": [
           {
@@ -662,9 +653,8 @@
             "note": "between-subjects, N = 19"
           }
         ],
-        "processText": "Development of one AB-encouraging and one AB-reducing system for prioritisation in job placement",
+        "processText": "Development of one AB-encouraging and one AB-reducing system for prioritisation in unemployment placement",
         "methods": [
-          "Literature review",
           "Use-case diagram",
           "Class diagram",
           "Between-subjects design",
@@ -705,7 +695,16 @@
           }
         ],
         "awards": [],
-        "iteration": []
+        "iteration": [
+          {
+            "src": "images/vp1-system-1-V2.png",
+            "caption": "Variant 1: AB-encouraging"
+          },
+          {
+            "src": "images/vp1-system-2-V2.png",
+            "caption": "Variant 2: AB-reducing"
+          }
+        ]
       },
       "layout": "A",
       "productImages": [
@@ -925,6 +924,14 @@
           {
             "src": "images/bpro-sketches-2.png",
             "caption": "Sketches: detailed flows"
+          },
+          {
+            "src": "images/bpro-poster-2.png",
+            "caption": "Both system variants"
+          },
+          {
+            "src": "images/bpro-poster-3.png",
+            "caption": "Process overview"
           }
         ]
       },
@@ -1003,9 +1010,7 @@
           "WebAssembly/JS",
           "WebRTC",
           "Cross-Device Interaction",
-          "Sensomotorische Metaphern",
-          "Image Schemas",
-          "Territoriality"
+          "Sensomotorische Metaphern"
         ],
         "sample": "",
         "architecture": "",
@@ -1051,17 +1056,32 @@
           "WebAssembly/JS",
           "WebRTC",
           "Cross-device interaction",
-          "Sensorimotor metaphors",
-          "Image Schemas",
-          "Territoriality"
+          "Sensorimotor metaphors"
         ],
         "sample": "",
         "architecture": "",
-        "outcome": "A tool for collaborative collage creation with context awareness and ad-hoc connectivity and interaction across device boundaries.",
+        "outcome": "A tool for collaborative collage creation with spatial awareness and ad-hoc connectivity across device boundaries.",
         "finding": "Sensorimotor metaphors and image schemas make systems feel more intuitive, particularly for less technically confident people.",
         "evidence": [],
         "awards": [],
-        "iteration": []
+        "iteration": [
+          {
+            "src": "images/nui-poster-1.png",
+            "caption": "Project idea"
+          },
+          {
+            "src": "images/nui-poster-3.png",
+            "caption": "In detail: smartphone"
+          },
+          {
+            "src": "images/nui-poster-6.png",
+            "caption": "In detail: tablet"
+          },
+          {
+            "src": "images/nui-poster7.png",
+            "caption": "Collaborative collage"
+          }
+        ]
       },
       "layout": "A",
       "fanImages": [
@@ -1121,7 +1141,7 @@
         "scope": "Schwerpunkt: Triangulation von Datenquellen und Aufstellung von Design Guidelines auf Basis motivationspsychologischer Modelle",
         "teaser": "Länger mit einer Akkuladung auskommen durch systemseitige Informationen, Features und Nudges.",
         "problem": "Anspruchsvollere Hardware und Software treiben den Energieverbrauch, und Akkus halten dadurch kürzer.",
-        "method": "Triangulation dreier Datenquellen: Erfahrungsberichte, Vergleich existierender Apps und eine Interviewstudie (N = 5), rückgebunden an motivationspsychologische Modelle (Zielsetzungstheorie, Nudging, Prospect Theory, Selbstbestimmungstheorie).",
+        "method": "Triangulation dreier Datenquellen: Erfahrungsberichte, Vergleich existierender Apps und eine Interview-Studie (N = 5), rückgebunden an motivationspsychologische Modelle (Zielsetzungstheorie, Nudging, Prospect Theory, Selbstbestimmungstheorie).",
         "result": "Sechs Gestaltungsrichtlinien für UI/UX-Designer, die systemseitige Informationen, Features und Nudges für eine energieeffizientere Smartphone-Nutzung beschreiben.",
         "citation": "",
         "links": [],
@@ -1135,7 +1155,7 @@
             "value": "UI/UX-Designer"
           }
         ],
-        "role": "Aggregation und Triangulation der Datenquellen, Durchführung der Interviewstudie, Aufstellung der Design Guidelines",
+        "role": "Aggregation und Triangulation der Datenquellen, Durchführung der Interview-Studie, Aufstellung der Design Guidelines",
         "goal": "Nutzern Möglichkeiten bieten, ihr Smartphone energieeffizienter und bewusster zu nutzen.",
         "process": [
           {
@@ -1147,7 +1167,7 @@
             "note": "existierende Technologie"
           },
           {
-            "label": "Interviewstudie",
+            "label": "Interview-Studie",
             "note": "Motivation und Strategien, N = 5"
           },
           {
@@ -1162,7 +1182,7 @@
           "Nudging",
           "Prospect Theory",
           "Selbstbestimmungstheorie",
-          "Interviewstudie",
+          "Interview-Studie",
           "Erfahrungsberichte",
           "App-Vergleiche",
           "Triangulation"
@@ -1211,7 +1231,7 @@
           }
         ],
         "role": "Aggregating and triangulating the data sources, running the interview study, establishing the design guidelines",
-        "goal": "Give users ways to use their smartphone more energy-efficiently and more consciously.",
+        "goal": "Give users ways to run their smartphone more efficiently and more consciously.",
         "process": [
           {
             "label": "Experience reports",
@@ -1245,7 +1265,7 @@
         "sample": "",
         "architecture": "",
         "outcome": "Six concrete design guidelines for UI/UX designers, grounded in motivation psychology and in the team's own empirical work.",
-        "finding": "Participants were primarily financially motivated, yet failed because of convenience and comfort, and therefore asked for automatic support features.",
+        "finding": "Participants were primarily motivated by cost, yet gave up over convenience, and therefore asked for automatic support features.",
         "evidence": [
           {
             "value": "N = 5",
@@ -1305,10 +1325,6 @@
           {
             "label": "Zielgruppe",
             "value": "Studierende"
-          },
-          {
-            "label": "Publikation",
-            "value": "NordiCHI 2026 (ACM)"
           }
         ],
         "role": "Konzeption & Interaktionsdesign",
@@ -1357,7 +1373,7 @@
         "kind": "Internship",
         "team": "Interaction Design & UX group · IMIS, University of Lübeck",
         "scope": "“MobTIs” project: concept and interaction design of a mobile transitional interface",
-        "teaser": "A mobile system that lets students switch between reality, AR and VR across their campus day, matching the task at hand.",
+        "teaser": "A mobile cross-reality prototype letting students switch between reality, AR and VR across their campus day.",
         "problem": "On campus, surroundings and tasks change constantly, and each degree of reality (reality, AR, VR) supports them only partly while combining them remains difficult.",
         "method": "Concept and interaction design of a transitional interface focused on transition cues (context-dependent, distance- and gaze-driven), plus prototypical implementation for mobile devices.",
         "result": "A working mobile cross-reality prototype for the campus day, and design knowledge on transition cues in mobile scenarios.",
@@ -1379,13 +1395,9 @@
           {
             "label": "Audience",
             "value": "Students"
-          },
-          {
-            "label": "Publication",
-            "value": "NordiCHI 2026 (ACM)"
           }
         ],
-        "role": "Concept & interaction design",
+        "role": "“MobTIs” project: concept and interaction design of a mobile transitional interface",
         "goal": "A mobile prototype that accompanies students through the day and lets them switch, as the task requires, between reality, AR (e.g. a navigation overlay) and VR (e.g. virtually entering a room).",
         "process": [
           {
@@ -1419,6 +1431,10 @@
         "evidence": [],
         "awards": [],
         "iteration": [
+          {
+            "src": "images/mobtis-1.png",
+            "caption": "Transition in the campus scenario"
+          },
           {
             "src": "images/mobtis-2.png",
             "caption": "Transition cues between degrees of reality"
@@ -1482,10 +1498,6 @@
           {
             "label": "Tools",
             "value": "Unity"
-          },
-          {
-            "label": "Auszeichnung",
-            "value": "1. Platz GameJam"
           }
         ],
         "role": "Vollständiger Game-Design-Prozess (Konzept, Visual Design, Sound Design, Game Design)",
@@ -1508,7 +1520,7 @@
         "finding": "Alltägliche Wartezeit trägt ein Spiel, sobald die reale Umgebung selbst zum Level wird und die Game Loops verschiedene Spielertypen gleichzeitig bedienen.",
         "evidence": [],
         "awards": [
-          "1. Platz GameJam"
+          "1. Platz des GameJams"
         ],
         "iteration": [
           {
@@ -1535,7 +1547,7 @@
         "kind": "GameJam",
         "team": "Team of 3",
         "scope": "Full game design process",
-        "teaser": "Using the real street network as the level layout to make waiting at stops more enjoyable.",
+        "teaser": "Using the real street network as the level layout, turning waiting time at a stop into play.",
         "problem": "Waiting a long time for public transport is rarely a pleasure.",
         "method": "Design of interlocking game loops for different player types, plus design measures for motivation, involvement, attention guidance, balancing, positive game feel and humour.",
         "result": "A finished mobile game, awarded first place at the GameJam for its combination of geodata, everyday situations and motivating game mechanics.",
@@ -1557,10 +1569,6 @@
           {
             "label": "Tools",
             "value": "Unity"
-          },
-          {
-            "label": "Award",
-            "value": "1st place, GameJam"
           }
         ],
         "role": "Full game design process (concept, visual design, sound design, game design)",
@@ -1583,7 +1591,7 @@
         "finding": "Everyday waiting time carries a game once the real environment becomes the level and the game loops serve several player types at once.",
         "evidence": [],
         "awards": [
-          "1st place, GameJam"
+          "First place at the GameJam"
         ],
         "iteration": [
           {
@@ -1689,7 +1697,6 @@
         ],
         "processText": "Fallstudienanalyse existierender VR-Museen als Ausgangspunkt für einen iterativ entwickelten Unity-Prototyp",
         "methods": [
-          "Literaturrecherche",
           "Fallstudienanalyse",
           "Iteratives Prototyping",
           "Unity",
@@ -1723,7 +1730,7 @@
         "kind": "Course Project",
         "team": "Team of 2",
         "scope": "Case-study analysis and iterative prototyping, focused on VR interaction design, information visualisation and 3D prototyping",
-        "teaser": "A 3D application for immersive information and knowledge delivery in a virtual museum.",
+        "teaser": "A 3D VR application for immersive information and knowledge delivery in a virtual museum.",
         "problem": "VR opens new routes for conveying knowledge, yet risks cognitive overload and with it the loss of immersion and presence.",
         "method": "Case-study analysis of VR museum applications, iterative prototyping based on the literature, and technical implementation of a functional VR prototype in Unity.",
         "result": "A prototype for human-centred information delivery in VR, showing how complex exhibit and room information can be conveyed without losing presence and with minimised cognitive load.",
@@ -1744,7 +1751,7 @@
           }
         ],
         "role": "Case-study analysis, iterative prototyping, focused on VR interaction design and information visualisation",
-        "goal": "VR interaction concepts that couple learning support and hedonic quality (immersion) harmoniously.",
+        "goal": "VR interaction concepts that couple learning and hedonic quality (immersion) harmoniously.",
         "process": [
           {
             "label": "Literature review",
@@ -1765,7 +1772,6 @@
         ],
         "processText": "A case-study analysis of existing VR museums as the starting point for an iteratively developed Unity prototype",
         "methods": [
-          "Literature review",
           "Case-study analysis",
           "Iterative prototyping",
           "Unity",
@@ -1774,7 +1780,7 @@
         ],
         "sample": "",
         "architecture": "",
-        "outcome": "A prototype for human-centred information presentation in VR, showing how complex exhibit and room information can be conveyed at minimised cognitive load.",
+        "outcome": "A prototype for human-centred information delivery in VR, showing how complex exhibit and room information can be conveyed at minimised cognitive load.",
         "finding": "Immersive VR worlds cost cognitive resources; for overload not to suppress learning, the information display has to absorb it deliberately.",
         "evidence": [],
         "awards": [],
@@ -1790,6 +1796,10 @@
           {
             "src": "images/vp2-mockups.png",
             "caption": "UI mockups (Figma)"
+          },
+          {
+            "src": "images/vp2-vr-1.png",
+            "caption": "VR prototype (Unity)"
           }
         ]
       },
@@ -1925,7 +1935,7 @@
         ],
         "sample": "",
         "architecture": "Physics-based controller gesture control deriving casting movements from controller transformations, without additional hardware.",
-        "outcome": "A VR simulator game demonstrating how complex manoeuvres and bodily gestures can be rendered naturally through controller transformations, without additional hardware.",
+        "outcome": "A VR simulator showing how complex manoeuvres and bodily gestures can be rendered naturally through controller transformations alone.",
         "finding": "Complex bodily gestures can be derived from controller transformations alone, provided the physics model captures movement dynamics rather than single poses.",
         "evidence": [],
         "awards": [],
@@ -1996,12 +2006,7 @@
         "method": "Tangram-Methode, 8,5-Charakterrollen-Methode, iteratives Prototyping sowie Anfertigung eines Branded Design Systems.",
         "result": "App-Konzept, das zeigt, wie städtischer Raum durch Gamification als interaktive Sport- und Begegnungsumgebung verwendet werden kann.",
         "citation": "",
-        "links": [
-          {
-            "label": "Artikel",
-            "url": "https://www.uni-luebeck.de/aktuelles/nachricht/artikel/sie-sind-die-besten-in-der-medieninformatik.html"
-          }
-        ],
+        "links": [],
         "metaBar": [
           {
             "label": "Team",
@@ -2010,10 +2015,6 @@
           {
             "label": "Zielgruppe",
             "value": "Lübecker"
-          },
-          {
-            "label": "Auszeichnung",
-            "value": "2. Platz EMI-Award"
           }
         ],
         "role": "Standortbasiertes soziales Konzept und konsistenter Markenauftritt (Logo, Werbeflyer, App-Design)",
@@ -2031,9 +2032,7 @@
         "outcome": "App-Konzept, das zeigt, wie städtischer Raum durch Gamification für Sport- & Begegnungschancen zugleich verwendet werden kann.",
         "finding": "Mehrere Anreize verstärken sich gegenseitig und senken die Hürde für körperliche Aktivität; ohne konsequent eingehaltene UI-Grundregeln entsteht jedoch Reibung, die diese Motivatoren ausbremst.",
         "evidence": [],
-        "awards": [
-          "2. Platz EMI-Award"
-        ],
+        "awards": ["2. Platz der Uni-internen EMI-Awards"],
         "iteration": []
       },
       "en": {
@@ -2042,17 +2041,12 @@
         "kind": "Course Project",
         "team": "Team of 6",
         "scope": "Focus on a location-based social concept and a consistent brand appearance (logo, promotional flyer, app design)",
-        "teaser": "A gamified fitness app concept connecting exercise with the playful exploration of Lübeck and social interaction.",
+        "teaser": "A gamified fitness app connecting exercise at virtual city stations with the playful exploration of Lübeck and social interaction.",
         "problem": "Regular outdoor exercise often lacks motivation, and making new social contacts in a city takes effort.",
         "method": "Tangram method, 8.5 character roles method, iterative prototyping, and production of a branded design system.",
         "result": "An app concept showing how urban space can be used as an interactive environment for sport and encounter through gamification.",
         "citation": "",
-        "links": [
-          {
-            "label": "Article",
-            "url": "https://www.uni-luebeck.de/aktuelles/nachricht/artikel/sie-sind-die-besten-in-der-medieninformatik.html"
-          }
-        ],
+        "links": [],
         "metaBar": [
           {
             "label": "Team",
@@ -2061,10 +2055,6 @@
           {
             "label": "Audience",
             "value": "Lübeck residents"
-          },
-          {
-            "label": "Award",
-            "value": "2nd place, EMI Award"
           }
         ],
         "role": "Location-based social concept and consistent brand appearance (logo, promotional flyer, app design)",
@@ -2073,19 +2063,34 @@
         "processText": "A location-based gamification concept, prototyped iteratively and anchored in a branded design system",
         "methods": [
           "Tangram method",
-          "8.5 character roles method",
+          "8.5 character roles",
           "Iterative prototyping",
           "Branded design system"
         ],
         "sample": "",
         "architecture": "",
-        "outcome": "An app concept showing how gamification lets urban space serve sport and social encounters at the same time.",
+        "outcome": "An app concept showing how gamification turns urban space into an environment for sport and encounter alike.",
         "finding": "Several incentives reinforce one another and lower the barrier to physical activity; without consistently applied UI fundamentals, however, friction slows those motivators down.",
         "evidence": [],
-        "awards": [
-          "2nd place, EMI Award"
-        ],
-        "iteration": []
+        "awards": [],
+        "iteration": [
+          {
+            "src": "images/luebactive-logo.png",
+            "caption": "Logo and brand appearance"
+          },
+          {
+            "src": "images/luebactive-app1.png",
+            "caption": "City stations"
+          },
+          {
+            "src": "images/luebactive-app2.png",
+            "caption": "An exercise at a station"
+          },
+          {
+            "src": "images/luebactive-app3.png",
+            "caption": "Social interaction"
+          }
+        ]
       },
       "layout": "A",
       "productImages": [
@@ -2177,7 +2182,7 @@
         "kind": "Course Project",
         "team": "Team of 4",
         "scope": "Full process from requirements analysis and modelling to the finished game, focused on software architecture, rule logic and coupled GUI and CLI development",
-        "teaser": "Digitising a board game and its complex rule set.",
+        "teaser": "Digitising the board game “Keltis” and its complex set of rules.",
         "problem": "Board games with an extensive rule set are hard to program, because rule logic and presentation have to stay cleanly separated.",
         "method": "Requirements analysis with use-case diagram and story cards, object-oriented modelling of game states, rule checks and moves, plus implementation of a graphical user interface (GUI) and a parallel command-line interface (CLI) on the MVC architectural pattern.",
         "result": "A working software adaptation of “Keltis” that implements a strict separation of backend logic and variable frontend presentation.",
@@ -2211,8 +2216,8 @@
           "GUI & CLI"
         ],
         "sample": "",
-        "architecture": "Use of the established MVC design pattern to decouple frontend and backend, so the same rule set stays usable through both a graphical and a command-line interface.",
-        "outcome": "A software adaptation of “Keltis” following established design patterns for a strict separation of backend logic and frontend presentation.",
+        "architecture": "A strict separation of backend logic and variable frontend presentation on the MVC pattern, so the same rule set is usable through both a graphical user interface and a command-line interface.",
+        "outcome": "A working software adaptation of “Keltis” following established design patterns to separate backend logic from frontend presentation.",
         "finding": "A strict MVC separation keeps the rule set stable while the presentation layer stays freely interchangeable.",
         "evidence": [],
         "awards": [],
@@ -2247,10 +2252,6 @@
           {
             "label": "Zielgruppe",
             "value": "Cross-Reality Designer"
-          },
-          {
-            "label": "Publikation",
-            "value": "CHI 2027 (in Begutachtung)"
           }
         ],
         "role": "Vollständiger Prozess: Studienplanung, Rekrutierung, qualitative Auswertung, Aufstellung von Designhilfen, Rückbindung an die Literatur",
@@ -2303,7 +2304,7 @@
         "kind": "Master's Thesis",
         "team": "Solo",
         "scope": "Full process: study design, recruitment, qualitative analysis, establishing design guidance, tying the results back to the literature",
-        "teaser": "A co-design study with professional designers deriving design guidance for novel cross-reality systems.",
+        "teaser": "A co-design study with professional designers deriving design guidance for cross-reality systems.",
         "problem": "Transitional interfaces combine the benefits of reality, AR and VR, yet the moves between them create novel UX problems and friction for which practical design guidance is missing.",
         "method": "Planning and running a co-design study, plus analysis and interpretation of the data through thematic analysis and affinity diagramming.",
         "result": "Concrete design guidance and an empirically grounded reflection on the underlying framework for cross-reality transitional interfaces.",
@@ -2317,10 +2318,6 @@
           {
             "label": "Audience",
             "value": "Cross-reality designers"
-          },
-          {
-            "label": "Publication",
-            "value": "CHI 2027 (under review)"
           }
         ],
         "role": "Full process: study design, recruitment, qualitative analysis, establishing design guidance, tying the results back to the literature",
@@ -2353,7 +2350,7 @@
         "sample": "",
         "architecture": "",
         "outcome": "Concrete design guidance and an empirically grounded reflection on the framework for transitional interfaces.",
-        "finding": "Reducing friction depends above all on the interplay of the three phases described by the examined framework.",
+        "finding": "Reducing friction depends above all on the interplay of the three phases the framework describes.",
         "evidence": [
           {
             "value": "N = 16",
@@ -2379,7 +2376,7 @@
       "cover": "",
       "gallery": [],
       "de": {
-        "title": "Iterative Development of a Framework and Design Considerations for Cross-Reality Transitional Interfaces with Researchers and Professional Designers",
+        "title": "Iterative Development of a Framework and Design Considerations for Cross-Reality Transitional Interfaces",
         "tag": "Paper",
         "kind": "Konferenzbeitrag · CHI 2027",
         "team": "D. Schacht, J.-H. Schröder, T. Breier, F. Wendt, H.-C. Jetter",
@@ -2388,7 +2385,7 @@
         "problem": "Forschung zu Transitional Interfaces konzentriert sich auf visuelle Übergangstechniken und übergeht die Reibungspunkte davor und danach. Für diese fehlen ein gemeinsames Vokabular und ganzheitliche Guidance.",
         "method": "Literaturbasierte Konsolidierung eines Drei-Phasen-Modells, Interviewstudie mit 5 TI-Forschenden, Co-Design-Studie mit 16 professionellen Designern sowie qualitative Analyse von 164 Design Moves.",
         "result": "Demonstration des Nutzens des Drei-Phasen-Frameworks und Bereitstellung von 11 Designüberlegungen für die Gestaltung von Transitional Interfaces.",
-        "citation": "Schacht, D., Schröder, J.-H., Breier, T., Wendt, F., Jetter, H.-C. (2026). Iterative Development of a Framework and Design Considerations for Cross-Reality Transitional Interfaces with Researchers and Professional Designers [Manuscript submitted for publication at CHI 2027, under review]",
+        "citation": "D. Schacht, J.-H. Schröder, T. Breier, F. Wendt, H.-C. Jetter. Submitted / Under Review bei CHI 2027.",
         "links": [],
         "metaBar": [
           {
@@ -2428,16 +2425,16 @@
         "iteration": []
       },
       "en": {
-        "title": "Iterative Development of a Framework and Design Considerations for Cross-Reality Transitional Interfaces with Researchers and Professional Designers",
+        "title": "Iterative Development of a Framework and Design Considerations for Cross-Reality Transitional Interfaces",
         "tag": "Paper",
         "kind": "Conference paper · CHI 2027",
         "team": "D. Schacht, J.-H. Schröder, T. Breier, F. Wendt, H.-C. Jetter",
         "scope": "Submitted / under review at CHI 2027",
-        "teaser": "A research paper consolidating and empirically developing a three-phase framework and concrete design considerations for cross-reality transitions.",
+        "teaser": "A research paper consolidating and empirically developing a three-phase framework plus eleven design considerations for cross-reality transitions.",
         "problem": "Research on transitional interfaces focuses on visual transition techniques and passes over the friction before and after them. For that friction, a shared vocabulary and holistic guidance are missing.",
         "method": "Literature-based consolidation of a three-phase model, an interview study with 5 TI researchers, a co-design study with 16 professional designers, and qualitative analysis of 164 design moves.",
         "result": "A demonstration of the three-phase framework's utility, plus 11 design considerations for shaping transitional interfaces.",
-        "citation": "Schacht, D., Schröder, J.-H., Breier, T., Wendt, F., Jetter, H.-C. (2026). Iterative Development of a Framework and Design Considerations for Cross-Reality Transitional Interfaces with Researchers and Professional Designers [Manuscript submitted for publication at CHI 2027, under review]",
+        "citation": "D. Schacht, J.-H. Schröder, T. Breier, F. Wendt, H.-C. Jetter. Submitted / under review at CHI 2027.",
         "links": [],
         "metaBar": [
           {
@@ -2449,7 +2446,7 @@
             "value": "CHI 2027"
           }
         ],
-        "role": "Co-author · running the co-design study, analysis and establishing the design considerations",
+        "role": "Co-author · running the co-design study, analysis and establishing the design guidance",
         "goal": "Develop a generalised framework and empirically grounded design considerations for the phases before, during and after a transition.",
         "process": [],
         "processText": "",
@@ -2497,7 +2494,7 @@
         "problem": "Forschung zu Transitional Interfaces untersucht häufig räumlich begrenzte Laborumgebungen, wodurch unklar bleibt, wie sich Interaktions-Herausforderungen in realistischen, mobilen und öffentlichen Kontexten auswirken.",
         "method": "Qualitative Nutzerstudie (N = 18) entlang einer öffentlichen Campus-Route mit 13 Transitions zwischen Realität, AR und VR, jeweils in zwei Designvarianten umgesetzt, sowie systematische Analyse der Challenge-Profiles und Evaluierung von Entry Cues, Transition Techniques und Arrival Cues.",
         "result": "Validierung von 4 bekannten Reibungs-Kategorien (räumliche Disorientierung, Fear of the Unknown, soziales Unbehagen, körperliche Belastung) und Entdeckung einer neuen Kategorie »Funktionale Unsicherheit«, sowie Einführung des Designprinzips der »Challenge-Profile Calibration«.",
-        "citation": "Schacht, D., Schröder, J.-H., Proksch, J., Breier, T., Reil, L., Jetter, H.-C. (in press). A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces. In Proceedings of NordiCHI 2026. ACM, New York, NY, USA",
+        "citation": "D. Schacht, J.-H. Schröder, J. Proksch, T. Breier, L. Reil, H.-C. Jetter. Proceedings of NordiCHI 2026 (ACM), in press.",
         "links": [],
         "metaBar": [
           {
@@ -2509,15 +2506,14 @@
             "value": "NordiCHI 2026 (ACM)"
           }
         ],
-        "role": "Co-Autor · Interaktionsdesign der Cues (Konzeption und Umsetzung verschiedener Varianten), Systemumsetzung und Grafiken",
+        "role": "Co-Autor · Systemumsetzung und Grafiken",
         "goal": "Reibungspunkte über 13 verschiedene Übergänge hinweg empirisch identifizieren und mindern.",
         "process": [],
         "processText": "",
         "methods": [
           "Qualitative Nutzerstudie",
           "Feldstudie",
-          "Challenge-Profile-Analyse",
-          "Hybrid Thematic Analysis"
+          "Challenge-Profile-Analyse"
         ],
         "sample": "N = 18 Studierende entlang einer öffentlichen Campus-Route mit 13 Transitions",
         "architecture": "",
@@ -2542,11 +2538,11 @@
         "kind": "Conference paper · NordiCHI 2026 (ACM)",
         "team": "D. Schacht, J.-H. Schröder, J. Proksch, T. Breier, L. Reil, H.-C. Jetter",
         "scope": "Proceedings of NordiCHI 2026 (ACM), in press",
-        "teaser": "A qualitative field study on a campus site on user challenges in transitions between reality, AR and VR in realistic everyday situations.",
-        "problem": "Research on transitional interfaces often examines spatially limited lab settings, leaving it unclear how interaction challenges play out in realistic, mobile and public contexts.",
-        "method": "A qualitative user study (N = 18) along a public campus route with 13 transitions between reality, AR and VR, each implemented in two design variants, plus systematic analysis of the challenge profiles and evaluation of entry cues, transition techniques and arrival cues.",
+        "teaser": "A qualitative field study on a campus site, validating and reducing user challenges in transitions between reality, AR and VR in realistic everyday situations.",
+        "problem": "Research on transitional interfaces has been largely confined to spatially limited lab settings, leaving it unclear how interaction challenges play out in realistic, mobile and public contexts.",
+        "method": "A qualitative user study (N = 18) along a public campus route with 13 transitions (each implemented in two design variants) between R, AR and VR, systematic analysis of the challenge profiles, and evaluation of entry cues, transition techniques and arrival cues.",
         "result": "Validation of 4 known friction categories (spatial disorientation, fear of the unknown, social discomfort, physical strain), discovery of a new category, “functional uncertainty”, and introduction of the design principle of “challenge-profile calibration”.",
-        "citation": "Schacht, D., Schröder, J.-H., Proksch, J., Breier, T., Reil, L., Jetter, H.-C. (in press). A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces. In Proceedings of NordiCHI 2026. ACM, New York, NY, USA",
+        "citation": "D. Schacht, J.-H. Schröder, J. Proksch, T. Breier, L. Reil, H.-C. Jetter. Proceedings of NordiCHI 2026 (ACM), in press.",
         "links": [],
         "metaBar": [
           {
@@ -2558,15 +2554,14 @@
             "value": "NordiCHI 2026 (ACM)"
           }
         ],
-        "role": "Co-author · interaction design of the cues (conceiving and implementing different variants), building the system and producing the graphics",
+        "role": "Co-author · building the system and producing the graphics",
         "goal": "Empirically identify and mitigate friction across 13 different transitions.",
         "process": [],
         "processText": "",
         "methods": [
           "Qualitative user study",
           "Field study",
-          "Challenge-profile analysis",
-          "Hybrid thematic analysis"
+          "Challenge-profile analysis"
         ],
         "sample": "N = 18 students along a public campus route with 13 transitions",
         "architecture": "",

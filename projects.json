@@ -1403,8 +1403,9 @@
             "value": "Studierende"
           },
           {
-            "label": "Publikation",
-            "value": "NordiCHI 2026 (ACM)"
+            "label": "Grundlage für",
+            "value": "Paper · NordiCHI 2026",
+            "project": "paper-nordichi-2026"
           }
         ],
         "role": "Konzeption & Interaktionsdesign",
@@ -1477,8 +1478,9 @@
             "value": "Students"
           },
           {
-            "label": "Publication",
-            "value": "NordiCHI 2026 (ACM)"
+            "label": "Basis for",
+            "value": "Paper · NordiCHI 2026",
+            "project": "paper-nordichi-2026"
           }
         ],
         "role": "Concept & interaction design",
@@ -2426,8 +2428,9 @@
             "value": "Cross-Reality Designer"
           },
           {
-            "label": "Publikation",
-            "value": "CHI 2027 (in Begutachtung)"
+            "label": "Grundlage für",
+            "value": "Paper · CHI 2027 (in Begutachtung)",
+            "project": "paper-chi-2027"
           }
         ],
         "role": "Vollständiger Prozess: Studienplanung, Rekrutierung, qualitative Auswertung, Aufstellung von Designhilfen, Rückbindung an die Literatur",
@@ -2496,8 +2499,9 @@
             "value": "Cross-reality designers"
           },
           {
-            "label": "Publication",
-            "value": "CHI 2027 (under review)"
+            "label": "Basis for",
+            "value": "Paper · CHI 2027 (under review)",
+            "project": "paper-chi-2027"
           }
         ],
         "role": "Full process: study design, recruitment, qualitative analysis, establishing design guidance, tying the results back to the literature",

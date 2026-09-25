@@ -2726,7 +2726,15 @@
         "iteration": []
       },
       "layout": "A",
-      "productImages": []
+      "productImages": [
+        {
+          "src": "images/tijani-conceptual.webp",
+          "caption": {
+            "de": "Symbolbild",
+            "en": "Illustrative image"
+          }
+        }
+      ]
     },
     {
       "id": "veranstaltungs-app",
@@ -2890,7 +2898,15 @@
         "iteration": []
       },
       "layout": "A",
-      "productImages": []
+      "productImages": [
+        {
+          "src": "images/ide-storyboard-planung.webp",
+          "caption": {
+            "de": "Symbolbild",
+            "en": "Illustrative image"
+          }
+        }
+      ]
     },
     {
       "id": "fallstudie-af447",
@@ -3056,8 +3072,8 @@
         {
           "src": "images/airfrance-447-2.webp",
           "caption": {
-            "de": "Air-France-Flug 447",
-            "en": "Air France flight 447"
+            "de": "Symbolbild",
+            "en": "Illustrative image"
           }
         }
       ]

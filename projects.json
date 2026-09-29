@@ -3085,105 +3085,20 @@
       "text": "#f4ece4",
       "accent": "#c98a5e",
       "order": 17,
+      "locked": true,
       "cover": "",
       "gallery": [],
       "de": {
         "title": "Iterative Development of a Framework and Design Considerations for Cross-Reality Transitional Interfaces with Researchers and Professional Designers",
         "tag": "Paper",
         "kind": "Konferenzbeitrag · CHI 2027",
-        "team": "D. Schacht, J.-H. Schröder, T. Breier, F. Wendt, H.-C. Jetter",
-        "scope": "Submitted / Under Review bei CHI 2027",
-        "teaser": "Forschungspapier zur Konsolidierung und empirischen Erarbeitung eines Drei-Phasen-Frameworks und konkreter Designüberlegungen für Cross-Reality-Übergänge.",
-        "problem": "Forschung zu Transitional Interfaces konzentriert sich auf visuelle Übergangstechniken und übergeht die Reibungspunkte davor und danach. Für diese fehlen ein gemeinsames Vokabular und ganzheitliche Guidance.",
-        "method": "Literaturbasierte Konsolidierung eines Drei-Phasen-Modells, Interviewstudie mit 5 TI-Forschenden, Co-Design-Studie mit 16 professionellen Designern sowie qualitative Analyse von 164 Design Moves.",
-        "result": "Demonstration des Nutzens des Drei-Phasen-Frameworks und Bereitstellung von 11 Designüberlegungen für die Gestaltung von Transitional Interfaces.",
-        "citation": "Schacht, D., Schröder, J.-H., Breier, T., Wendt, F., Jetter, H.-C. (2026). Iterative Development of a Framework and Design Considerations for Cross-Reality Transitional Interfaces with Researchers and Professional Designers [Manuscript submitted for publication at CHI 2027, under review]",
-        "links": [],
-        "metaBar": [
-          {
-            "label": "Status",
-            "value": "Eingereicht / In Begutachtung"
-          },
-          {
-            "label": "Venue",
-            "value": "CHI 2027"
-          }
-        ],
-        "role": "Co-Autor · Durchführung der Co-Design-Studie, Auswertung & Aufstellung der Designüberlegungen",
-        "goal": "Ein generalisiertes Framework und empirisch fundierte Designüberlegungen für die Phasen vor, während und nach dem Übergang entwickeln.",
-        "process": [],
-        "processText": "",
-        "methods": [
-          "Literaturbasierte Konsolidierung",
-          "Interviewstudie",
-          "Co-Design-Studie",
-          "Qualitative Analyse"
-        ],
-        "sample": "5 TI-Forschende (Interviewstudie) und 16 professionelle Designer (Co-Design-Studie)",
-        "architecture": "",
-        "outcome": "Drei-Phasen-Framework und 11 Designüberlegungen für die Gestaltung von Transitional Interfaces.",
-        "finding": "Ein gemeinsames Phasen-Vokabular macht Reibungspunkte vor und nach dem Übergang adressierbar, die reine Übergangstechniken auslassen.",
-        "evidence": [
-          {
-            "value": "164",
-            "label": "analysierte Design Moves"
-          },
-          {
-            "value": "11",
-            "label": "Design Considerations"
-          }
-        ],
-        "awards": [],
-        "iteration": []
+        "teaser": "Forschungspapier zur Konsolidierung und empirischen Erarbeitung eines Drei-Phasen-Frameworks und konkreter Designüberlegungen für Cross-Reality-Übergänge."
       },
       "en": {
         "title": "Iterative Development of a Framework and Design Considerations for Cross-Reality Transitional Interfaces with Researchers and Professional Designers",
         "tag": "Paper",
         "kind": "Conference paper · CHI 2027",
-        "team": "D. Schacht, J.-H. Schröder, T. Breier, F. Wendt, H.-C. Jetter",
-        "scope": "Submitted / under review at CHI 2027",
-        "teaser": "A research paper consolidating and empirically developing a three-phase framework and concrete design considerations for cross-reality transitions.",
-        "problem": "Research on transitional interfaces focuses on visual transition techniques and passes over the friction before and after them. For that friction, a shared vocabulary and holistic guidance are missing.",
-        "method": "Literature-based consolidation of a three-phase model, an interview study with 5 TI researchers, a co-design study with 16 professional designers, and qualitative analysis of 164 design moves.",
-        "result": "A demonstration of the three-phase framework's utility, plus 11 design considerations for shaping transitional interfaces.",
-        "citation": "Schacht, D., Schröder, J.-H., Breier, T., Wendt, F., Jetter, H.-C. (2026). Iterative Development of a Framework and Design Considerations for Cross-Reality Transitional Interfaces with Researchers and Professional Designers [Manuscript submitted for publication at CHI 2027, under review]",
-        "links": [],
-        "metaBar": [
-          {
-            "label": "Status",
-            "value": "Submitted / under review"
-          },
-          {
-            "label": "Venue",
-            "value": "CHI 2027"
-          }
-        ],
-        "role": "Co-author · running the co-design study, analysis and establishing the design considerations",
-        "goal": "Develop a generalised framework and empirically grounded design considerations for the phases before, during and after a transition.",
-        "process": [],
-        "processText": "",
-        "methods": [
-          "Literature-based consolidation",
-          "Interview study",
-          "Co-design study",
-          "Qualitative analysis"
-        ],
-        "sample": "5 TI researchers (interview study) and 16 professional designers (co-design study)",
-        "architecture": "",
-        "outcome": "A three-phase framework and 11 design considerations for shaping transitional interfaces.",
-        "finding": "A shared vocabulary of phases makes the friction before and after a transition addressable, which transition techniques alone leave out.",
-        "evidence": [
-          {
-            "value": "164",
-            "label": "design moves analysed"
-          },
-          {
-            "value": "11",
-            "label": "design considerations"
-          }
-        ],
-        "awards": [],
-        "iteration": []
+        "teaser": "A research paper consolidating and empirically developing a three-phase framework and concrete design considerations for cross-reality transitions."
       },
       "layout": "B"
     },

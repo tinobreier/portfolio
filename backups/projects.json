@@ -3116,22 +3116,17 @@
         "tag": "Paper",
         "kind": "Konferenzbeitrag · NordiCHI 2026 (ACM)",
         "team": "D. Schacht, J.-H. Schröder, J. Proksch, T. Breier, L. Reil, H.-C. Jetter",
-        "scope": "Proceedings of NordiCHI 2026 (ACM)",
+        "scope": "Proceedings of NordiCHI 2026 (ACM), in press",
         "teaser": "Qualitative Feldstudie auf einem Campus-Gelände zu Nutzer-Herausforderungen bei Übergängen zwischen Realität, AR & VR in realistischen Alltagssituationen.",
         "problem": "Forschung zu Transitional Interfaces untersucht häufig räumlich begrenzte Laborumgebungen, wodurch unklar bleibt, wie sich Interaktions-Herausforderungen in realistischen, mobilen und öffentlichen Kontexten auswirken.",
         "method": "Qualitative Nutzerstudie (N = 18) entlang einer öffentlichen Campus-Route mit 13 Transitions zwischen Realität, AR und VR, jeweils in zwei Designvarianten umgesetzt, sowie systematische Analyse der Challenge-Profiles und Evaluierung von Entry Cues, Transition Techniques und Arrival Cues.",
         "result": "Validierung von 4 bekannten Reibungs-Kategorien (räumliche Disorientierung, Fear of the Unknown, soziales Unbehagen, körperliche Belastung) und Entdeckung einer neuen Kategorie »Funktionale Unsicherheit«, sowie Einführung des Designprinzips der »Challenge-Profile Calibration«.",
-        "citation": "Schacht, D., Schröder, J.-H., Proksch, J., Breier, T., Reil, L., Jetter, H.-C. (2026). A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces. In Proceedings of NordiCHI 2026. ACM, New York, NY, USA. https://doi.org/10.1145/3829807.3829911",
-        "links": [
-          {
-            "label": "ACM Digital Library",
-            "url": "https://dl.acm.org/doi/10.1145/3829807.3829911"
-          }
-        ],
+        "citation": "Schacht, D., Schröder, J.-H., Proksch, J., Breier, T., Reil, L., Jetter, H.-C. (in press). A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces. In Proceedings of NordiCHI 2026. ACM, New York, NY, USA",
+        "links": [],
         "metaBar": [
           {
             "label": "Status",
-            "value": "Veröffentlicht"
+            "value": "Im Druck"
           },
           {
             "label": "Venue",
@@ -3170,22 +3165,17 @@
         "tag": "Paper",
         "kind": "Conference paper · NordiCHI 2026 (ACM)",
         "team": "D. Schacht, J.-H. Schröder, J. Proksch, T. Breier, L. Reil, H.-C. Jetter",
-        "scope": "Proceedings of NordiCHI 2026 (ACM)",
+        "scope": "Proceedings of NordiCHI 2026 (ACM), in press",
         "teaser": "A qualitative field study on a campus site on user challenges in transitions between reality, AR and VR in realistic everyday situations.",
         "problem": "Research on transitional interfaces often examines spatially limited lab settings, leaving it unclear how interaction challenges play out in realistic, mobile and public contexts.",
         "method": "A qualitative user study (N = 18) along a public campus route with 13 transitions between reality, AR and VR, each implemented in two design variants, plus systematic analysis of the challenge profiles and evaluation of entry cues, transition techniques and arrival cues.",
         "result": "Validation of 4 known friction categories (spatial disorientation, fear of the unknown, social discomfort, physical strain), discovery of a new category, “functional uncertainty”, and introduction of the design principle of “challenge-profile calibration”.",
-        "citation": "Schacht, D., Schröder, J.-H., Proksch, J., Breier, T., Reil, L., Jetter, H.-C. (2026). A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces. In Proceedings of NordiCHI 2026. ACM, New York, NY, USA. https://doi.org/10.1145/3829807.3829911",
-        "links": [
-          {
-            "label": "ACM Digital Library",
-            "url": "https://dl.acm.org/doi/10.1145/3829807.3829911"
-          }
-        ],
+        "citation": "Schacht, D., Schröder, J.-H., Proksch, J., Breier, T., Reil, L., Jetter, H.-C. (in press). A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces. In Proceedings of NordiCHI 2026. ACM, New York, NY, USA",
+        "links": [],
         "metaBar": [
           {
             "label": "Status",
-            "value": "Published"
+            "value": "In press"
           },
           {
             "label": "Venue",

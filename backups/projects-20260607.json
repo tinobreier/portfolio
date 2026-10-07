@@ -331,129 +331,10 @@
       ]
     },
     {
-      "id": "paper-nordichi-2026",
-      "type": "paper",
-      "color": "#3a3330",
-      "text": "#f4ece4",
-      "accent": "#c98a5e",
-      "order": 2,
-      "cover": "images/nordichi-1.png",
-      "gallery": [],
-      "de": {
-        "title": "A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces",
-        "tag": "Paper",
-        "kind": "Konferenzbeitrag · NordiCHI 2026 (ACM)",
-        "team": "D. Schacht, J.-H. Schröder, J. Proksch, T. Breier, L. Reil, H.-C. Jetter",
-        "scope": "Proceedings of NordiCHI 2026 (ACM)",
-        "teaser": "Qualitative Feldstudie auf einem Campus-Gelände zu Nutzer-Herausforderungen bei Übergängen zwischen Realität, AR & VR in realistischen Alltagssituationen.",
-        "problem": "Forschung zu Transitional Interfaces untersucht häufig räumlich begrenzte Laborumgebungen, wodurch unklar bleibt, wie sich Interaktions-Herausforderungen in realistischen, mobilen und öffentlichen Kontexten auswirken.",
-        "method": "Qualitative Nutzerstudie (N = 18) entlang einer öffentlichen Campus-Route mit 13 Transitions zwischen Realität, AR und VR, jeweils in zwei Designvarianten umgesetzt, sowie systematische Analyse der Challenge-Profiles und Evaluierung von Entry Cues, Transition Techniques und Arrival Cues.",
-        "result": "Validierung von 4 bekannten Reibungs-Kategorien (räumliche Disorientierung, Fear of the Unknown, soziales Unbehagen, körperliche Belastung) und Entdeckung einer neuen Kategorie »Funktionale Unsicherheit«, sowie Einführung des Designprinzips der »Challenge-Profile Calibration«.",
-        "citation": "Schacht, D., Schröder, J.-H., Proksch, J., Breier, T., Reil, L., Jetter, H.-C. (2026). A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces. In Proceedings of NordiCHI 2026. ACM, New York, NY, USA. https://doi.org/10.1145/3829807.3829911",
-        "links": [
-          {
-            "label": "ACM Digital Library",
-            "url": "https://dl.acm.org/doi/10.1145/3829807.3829911"
-          }
-        ],
-        "metaBar": [
-          {
-            "label": "Status",
-            "value": "Veröffentlicht"
-          },
-          {
-            "label": "Venue",
-            "value": "NordiCHI 2026 (ACM)"
-          }
-        ],
-        "role": "Co-Autor · Interaktionsdesign der Cues (Konzeption und Umsetzung verschiedener Varianten), Systemumsetzung und Grafiken",
-        "goal": "Reibungspunkte über 13 verschiedene Übergänge hinweg empirisch identifizieren und mindern.",
-        "process": [],
-        "processText": "",
-        "methods": [
-          "Qualitative Nutzerstudie",
-          "Feldstudie",
-          "Challenge-Profile-Analyse",
-          "Hybrid Thematic Analysis"
-        ],
-        "sample": "N = 18 Studierende entlang einer öffentlichen Campus-Route mit 13 Transitions",
-        "architecture": "",
-        "outcome": "Vier validierte und eine neue Reibungs-Kategorie sowie das Designprinzip der »Challenge-Profile Calibration«.",
-        "finding": "Neben vier bekannten Reibungs-Kategorien zeigte sich eine neue Kategorie »Funktionale Unsicherheit«, die Laborstudien bislang nicht erfassen.",
-        "evidence": [
-          {
-            "value": "N = 18",
-            "label": "Teilnehmende"
-          },
-          {
-            "value": "13",
-            "label": "untersuchte Transitions"
-          }
-        ],
-        "awards": [],
-        "iteration": []
-      },
-      "en": {
-        "title": "A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces",
-        "tag": "Paper",
-        "kind": "Conference paper · NordiCHI 2026 (ACM)",
-        "team": "D. Schacht, J.-H. Schröder, J. Proksch, T. Breier, L. Reil, H.-C. Jetter",
-        "scope": "Proceedings of NordiCHI 2026 (ACM)",
-        "teaser": "A qualitative field study on a campus site on user challenges in transitions between reality, AR and VR in realistic everyday situations.",
-        "problem": "Research on transitional interfaces often examines spatially limited lab settings, leaving it unclear how interaction challenges play out in realistic, mobile and public contexts.",
-        "method": "A qualitative user study (N = 18) along a public campus route with 13 transitions between reality, AR and VR, each implemented in two design variants, plus systematic analysis of the challenge profiles and evaluation of entry cues, transition techniques and arrival cues.",
-        "result": "Validation of 4 known friction categories (spatial disorientation, fear of the unknown, social discomfort, physical strain), discovery of a new category, “functional uncertainty”, and introduction of the design principle of “challenge-profile calibration”.",
-        "citation": "Schacht, D., Schröder, J.-H., Proksch, J., Breier, T., Reil, L., Jetter, H.-C. (2026). A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces. In Proceedings of NordiCHI 2026. ACM, New York, NY, USA. https://doi.org/10.1145/3829807.3829911",
-        "links": [
-          {
-            "label": "ACM Digital Library",
-            "url": "https://dl.acm.org/doi/10.1145/3829807.3829911"
-          }
-        ],
-        "metaBar": [
-          {
-            "label": "Status",
-            "value": "Published"
-          },
-          {
-            "label": "Venue",
-            "value": "NordiCHI 2026 (ACM)"
-          }
-        ],
-        "role": "Co-author · interaction design of the cues (conceiving and implementing different variants), building the system and producing the graphics",
-        "goal": "Empirically identify and mitigate friction across 13 different transitions.",
-        "process": [],
-        "processText": "",
-        "methods": [
-          "Qualitative user study",
-          "Field study",
-          "Challenge-profile analysis",
-          "Hybrid thematic analysis"
-        ],
-        "sample": "N = 18 students along a public campus route with 13 transitions",
-        "architecture": "",
-        "outcome": "Four validated friction categories plus a new one, and the design principle of “challenge-profile calibration”.",
-        "finding": "Alongside four known friction categories, a new one emerged — “functional uncertainty” — which lab studies have not captured.",
-        "evidence": [
-          {
-            "value": "N = 18",
-            "label": "Participants"
-          },
-          {
-            "value": "13",
-            "label": "transitions studied"
-          }
-        ],
-        "awards": [],
-        "iteration": []
-      },
-      "layout": "B"
-    },
-    {
       "id": "insulin-app",
       "type": "project",
       "color": "#0f7268",
-      "order": 3,
+      "order": 2,
       "cover": "images/ingpsy-2.webp",
       "gallery": [],
       "de": {
@@ -661,161 +542,10 @@
       ]
     },
     {
-      "id": "design-guidance-xr",
-      "type": "project",
-      "color": "#1565c0",
-      "order": 4,
-      "cover": "",
-      "gallery": [],
-      "de": {
-        "title": "Design Guidance für Cross-Reality Transitional Interfaces",
-        "tag": "Abschlussarbeit",
-        "kind": "Abschlussarbeit (M.Sc.)",
-        "team": "Solo",
-        "scope": "Vollständiger Prozess: Studienplanung, Rekrutierung, qualitative Auswertung, Aufstellung von Designhilfen, Rückbindung an die Literatur",
-        "teaser": "Co-Design-Studie mit professionellen Designern zur Ableitung von Gestaltungshilfen für neuartige Cross-Reality-Systeme.",
-        "problem": "Transitional Interfaces kombinieren die Vorteile von Realität, AR und VR, erzeugen an den Übergängen jedoch neuartige UX-Probleme und Reibungspunkte, für die praxisnahe Gestaltungshilfen fehlen.",
-        "method": "Planung und Durchführung einer Co-Design-Studie sowie Auswertung und Interpretation der Daten mittels Thematic Analysis und Affinity Diagramming.",
-        "result": "Konkrete Design Guidance sowie eine empirisch fundierte Reflexion des zugrunde liegenden Frameworks für Cross-Reality Transitional Interfaces.",
-        "citation": "",
-        "links": [],
-        "metaBar": [
-          {
-            "label": "Team",
-            "value": "Solo"
-          },
-          {
-            "label": "Zielgruppe",
-            "value": "Cross-Reality Designer"
-          },
-          {
-            "label": "Grundlage für",
-            "value": "Paper · CHI 2027 (in Begutachtung)",
-            "project": "paper-chi-2027"
-          }
-        ],
-        "role": "Vollständiger Prozess: Studienplanung, Rekrutierung, qualitative Auswertung, Aufstellung von Designhilfen, Rückbindung an die Literatur",
-        "goal": "An das Expertenwissen professioneller AR/VR-Designer anknüpfen.",
-        "process": [
-          {
-            "label": "Planung",
-            "note": "Co-Design-Studie, Rekrutierung"
-          },
-          {
-            "label": "Durchführung",
-            "note": "acht Co-Design-Sessions"
-          },
-          {
-            "label": "Auswertung",
-            "note": "Thematic Analysis, Affinity Diagramming"
-          },
-          {
-            "label": "Design Guidance",
-            "note": "Rückbindung an die Literatur"
-          }
-        ],
-        "processText": "Co-Design-Studie mit professionellen AR/VR-Designern, qualitativ ausgewertet und an die Literatur rückgebunden",
-        "methods": [
-          "Co-Design-Studie",
-          "Thematic Analysis",
-          "Affinity Diagramming",
-          "Qualitative Auswertung"
-        ],
-        "sample": "",
-        "architecture": "",
-        "outcome": "Konkrete Design Guidance und eine empirisch fundierte Reflexion des Frameworks für Transitional Interfaces.",
-        "finding": "Um Reibungspunkte zu verringern, zählt vor allem das Zusammenspiel der drei Phasen, die das untersuchte Framework beschreibt.",
-        "evidence": [
-          {
-            "value": "N = 16",
-            "label": "Teilnehmende (Designer)"
-          },
-          {
-            "value": "164",
-            "label": "analysierte Design Moves"
-          }
-        ],
-        "awards": [],
-        "iteration": []
-      },
-      "en": {
-        "title": "Design Guidance for Cross-Reality Transitional Interfaces",
-        "tag": "Thesis",
-        "kind": "Master's Thesis",
-        "team": "Solo",
-        "scope": "Full process: study design, recruitment, qualitative analysis, establishing design guidance, tying the results back to the literature",
-        "teaser": "A co-design study with professional designers deriving design guidance for novel cross-reality systems.",
-        "problem": "Transitional interfaces combine the benefits of reality, AR and VR, yet the moves between them create novel UX problems and friction for which practical design guidance is missing.",
-        "method": "Planning and running a co-design study, plus analysis and interpretation of the data through thematic analysis and affinity diagramming.",
-        "result": "Concrete design guidance and an empirically grounded reflection on the underlying framework for cross-reality transitional interfaces.",
-        "citation": "",
-        "links": [],
-        "metaBar": [
-          {
-            "label": "Team",
-            "value": "Solo"
-          },
-          {
-            "label": "Audience",
-            "value": "Cross-reality designers"
-          },
-          {
-            "label": "Basis for",
-            "value": "Paper · CHI 2027 (under review)",
-            "project": "paper-chi-2027"
-          }
-        ],
-        "role": "Full process: study design, recruitment, qualitative analysis, establishing design guidance, tying the results back to the literature",
-        "goal": "Build on the expert knowledge of professional AR/VR designers.",
-        "process": [
-          {
-            "label": "Study design",
-            "note": "co-design study, recruitment"
-          },
-          {
-            "label": "Sessions",
-            "note": "eight co-design sessions"
-          },
-          {
-            "label": "Analysis",
-            "note": "thematic analysis, affinity diagramming"
-          },
-          {
-            "label": "Design guidance",
-            "note": "tied back to the literature"
-          }
-        ],
-        "processText": "A co-design study with professional AR/VR designers, analysed qualitatively and tied back to the literature",
-        "methods": [
-          "Co-design study",
-          "Thematic analysis",
-          "Affinity diagramming",
-          "Qualitative analysis"
-        ],
-        "sample": "",
-        "architecture": "",
-        "outcome": "Concrete design guidance and an empirically grounded reflection on the framework for transitional interfaces.",
-        "finding": "Reducing friction depends above all on the interplay of the three phases described by the examined framework.",
-        "evidence": [
-          {
-            "value": "N = 16",
-            "label": "Participants (designers)"
-          },
-          {
-            "value": "164",
-            "label": "design moves analysed"
-          }
-        ],
-        "awards": [],
-        "iteration": []
-      },
-      "layout": "A"
-    },
-    {
       "id": "automation-bias",
       "type": "project",
       "color": "#a81f56",
-      "order": 5,
+      "order": 3,
       "cover": "images/vp1-system-1-V2.webp",
       "gallery": [],
       "de": {
@@ -1057,7 +787,7 @@
       "id": "lernvideo-transkript",
       "type": "project",
       "color": "#6a3fa0",
-      "order": 6,
+      "order": 4,
       "cover": "images/bpro-poster-1.webp",
       "gallery": [],
       "de": {
@@ -1300,7 +1030,7 @@
       "id": "nui-fotocollage",
       "type": "project",
       "color": "#2c68a4",
-      "order": 7,
+      "order": 5,
       "cover": "images/nui-poster-4.webp",
       "gallery": [],
       "de": {
@@ -1472,7 +1202,7 @@
       "id": "akku-guidelines",
       "type": "project",
       "color": "#7d1f3d",
-      "order": 8,
+      "order": 6,
       "cover": "images/motemci-poster-design.webp",
       "gallery": [],
       "layout": "A",
@@ -1640,7 +1370,7 @@
       "id": "mobtis-praktikum",
       "type": "internship",
       "color": "#8c2f1c",
-      "order": 9,
+      "order": 7,
       "cover": "images/mobtis-1.webp",
       "gallery": [],
       "de": {
@@ -1831,7 +1561,7 @@
       "id": "haltestellung",
       "type": "project",
       "color": "#14576e",
-      "order": 10,
+      "order": 8,
       "cover": "images/haltestellung-2.webp",
       "gallery": [],
       "de": {
@@ -2036,7 +1766,7 @@
       "id": "vr-museum",
       "type": "project",
       "color": "#3d6b1b",
-      "order": 11,
+      "order": 9,
       "cover": "images/vp2-vr-1.webp",
       "gallery": [],
       "de": {
@@ -2236,7 +1966,7 @@
       "id": "vr-angeln",
       "type": "project",
       "color": "#2b6b4f",
-      "order": 12,
+      "order": 10,
       "cover": "images/cr-screen-1.webp",
       "gallery": [],
       "de": {
@@ -2413,7 +2143,7 @@
       "id": "luebactive",
       "type": "project",
       "color": "#a36208",
-      "order": 13,
+      "order": 11,
       "cover": "images/luebactive-logo.webp",
       "gallery": [],
       "de": {
@@ -2570,7 +2300,7 @@
       "id": "keltis",
       "type": "project",
       "color": "#3f4a8a",
-      "order": 14,
+      "order": 12,
       "cover": "",
       "gallery": [],
       "de": {
@@ -2670,10 +2400,161 @@
       "layout": "C"
     },
     {
+      "id": "design-guidance-xr",
+      "type": "project",
+      "color": "#1565c0",
+      "order": 13,
+      "cover": "",
+      "gallery": [],
+      "de": {
+        "title": "Design Guidance für Cross-Reality Transitional Interfaces",
+        "tag": "Abschlussarbeit",
+        "kind": "Abschlussarbeit (M.Sc.)",
+        "team": "Solo",
+        "scope": "Vollständiger Prozess: Studienplanung, Rekrutierung, qualitative Auswertung, Aufstellung von Designhilfen, Rückbindung an die Literatur",
+        "teaser": "Co-Design-Studie mit professionellen Designern zur Ableitung von Gestaltungshilfen für neuartige Cross-Reality-Systeme.",
+        "problem": "Transitional Interfaces kombinieren die Vorteile von Realität, AR und VR, erzeugen an den Übergängen jedoch neuartige UX-Probleme und Reibungspunkte, für die praxisnahe Gestaltungshilfen fehlen.",
+        "method": "Planung und Durchführung einer Co-Design-Studie sowie Auswertung und Interpretation der Daten mittels Thematic Analysis und Affinity Diagramming.",
+        "result": "Konkrete Design Guidance sowie eine empirisch fundierte Reflexion des zugrunde liegenden Frameworks für Cross-Reality Transitional Interfaces.",
+        "citation": "",
+        "links": [],
+        "metaBar": [
+          {
+            "label": "Team",
+            "value": "Solo"
+          },
+          {
+            "label": "Zielgruppe",
+            "value": "Cross-Reality Designer"
+          },
+          {
+            "label": "Grundlage für",
+            "value": "Paper · CHI 2027 (in Begutachtung)",
+            "project": "paper-chi-2027"
+          }
+        ],
+        "role": "Vollständiger Prozess: Studienplanung, Rekrutierung, qualitative Auswertung, Aufstellung von Designhilfen, Rückbindung an die Literatur",
+        "goal": "An das Expertenwissen professioneller AR/VR-Designer anknüpfen.",
+        "process": [
+          {
+            "label": "Planung",
+            "note": "Co-Design-Studie, Rekrutierung"
+          },
+          {
+            "label": "Durchführung",
+            "note": "acht Co-Design-Sessions"
+          },
+          {
+            "label": "Auswertung",
+            "note": "Thematic Analysis, Affinity Diagramming"
+          },
+          {
+            "label": "Design Guidance",
+            "note": "Rückbindung an die Literatur"
+          }
+        ],
+        "processText": "Co-Design-Studie mit professionellen AR/VR-Designern, qualitativ ausgewertet und an die Literatur rückgebunden",
+        "methods": [
+          "Co-Design-Studie",
+          "Thematic Analysis",
+          "Affinity Diagramming",
+          "Qualitative Auswertung"
+        ],
+        "sample": "",
+        "architecture": "",
+        "outcome": "Konkrete Design Guidance und eine empirisch fundierte Reflexion des Frameworks für Transitional Interfaces.",
+        "finding": "Um Reibungspunkte zu verringern, zählt vor allem das Zusammenspiel der drei Phasen, die das untersuchte Framework beschreibt.",
+        "evidence": [
+          {
+            "value": "N = 16",
+            "label": "Teilnehmende (Designer)"
+          },
+          {
+            "value": "164",
+            "label": "analysierte Design Moves"
+          }
+        ],
+        "awards": [],
+        "iteration": []
+      },
+      "en": {
+        "title": "Design Guidance for Cross-Reality Transitional Interfaces",
+        "tag": "Thesis",
+        "kind": "Master's Thesis",
+        "team": "Solo",
+        "scope": "Full process: study design, recruitment, qualitative analysis, establishing design guidance, tying the results back to the literature",
+        "teaser": "A co-design study with professional designers deriving design guidance for novel cross-reality systems.",
+        "problem": "Transitional interfaces combine the benefits of reality, AR and VR, yet the moves between them create novel UX problems and friction for which practical design guidance is missing.",
+        "method": "Planning and running a co-design study, plus analysis and interpretation of the data through thematic analysis and affinity diagramming.",
+        "result": "Concrete design guidance and an empirically grounded reflection on the underlying framework for cross-reality transitional interfaces.",
+        "citation": "",
+        "links": [],
+        "metaBar": [
+          {
+            "label": "Team",
+            "value": "Solo"
+          },
+          {
+            "label": "Audience",
+            "value": "Cross-reality designers"
+          },
+          {
+            "label": "Basis for",
+            "value": "Paper · CHI 2027 (under review)",
+            "project": "paper-chi-2027"
+          }
+        ],
+        "role": "Full process: study design, recruitment, qualitative analysis, establishing design guidance, tying the results back to the literature",
+        "goal": "Build on the expert knowledge of professional AR/VR designers.",
+        "process": [
+          {
+            "label": "Study design",
+            "note": "co-design study, recruitment"
+          },
+          {
+            "label": "Sessions",
+            "note": "eight co-design sessions"
+          },
+          {
+            "label": "Analysis",
+            "note": "thematic analysis, affinity diagramming"
+          },
+          {
+            "label": "Design guidance",
+            "note": "tied back to the literature"
+          }
+        ],
+        "processText": "A co-design study with professional AR/VR designers, analysed qualitatively and tied back to the literature",
+        "methods": [
+          "Co-design study",
+          "Thematic analysis",
+          "Affinity diagramming",
+          "Qualitative analysis"
+        ],
+        "sample": "",
+        "architecture": "",
+        "outcome": "Concrete design guidance and an empirically grounded reflection on the framework for transitional interfaces.",
+        "finding": "Reducing friction depends above all on the interplay of the three phases described by the examined framework.",
+        "evidence": [
+          {
+            "value": "N = 16",
+            "label": "Participants (designers)"
+          },
+          {
+            "value": "164",
+            "label": "design moves analysed"
+          }
+        ],
+        "awards": [],
+        "iteration": []
+      },
+      "layout": "A"
+    },
+    {
       "id": "raumfindung-app",
       "type": "project",
       "color": "#1d4972",
-      "order": 15,
+      "order": 14,
       "cover": "images/tijani-conceptual.webp",
       "gallery": [],
       "de": {
@@ -2859,7 +2740,7 @@
       "id": "veranstaltungs-app",
       "type": "project",
       "color": "#7a3b69",
-      "order": 16,
+      "order": 15,
       "cover": "images/ide-storyboard-planung.webp",
       "gallery": [],
       "de": {
@@ -3031,7 +2912,7 @@
       "id": "fallstudie-af447",
       "type": "project",
       "color": "#6e5a2e",
-      "order": 17,
+      "order": 16,
       "cover": "images/airfrance-447-2.webp",
       "gallery": [],
       "de": {
@@ -3203,7 +3084,7 @@
       "color": "#2e2d2b",
       "text": "#f4ece4",
       "accent": "#c98a5e",
-      "order": 18,
+      "order": 17,
       "locked": true,
       "cover": "",
       "gallery": [],
@@ -3218,6 +3099,125 @@
         "tag": "Paper",
         "kind": "Conference paper · CHI 2027",
         "teaser": "A research paper consolidating and empirically developing a three-phase framework and concrete design considerations for cross-reality transitions."
+      },
+      "layout": "B"
+    },
+    {
+      "id": "paper-nordichi-2026",
+      "type": "paper",
+      "color": "#3a3330",
+      "text": "#f4ece4",
+      "accent": "#c98a5e",
+      "order": 18,
+      "cover": "images/nordichi-1.png",
+      "gallery": [],
+      "de": {
+        "title": "A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces",
+        "tag": "Paper",
+        "kind": "Konferenzbeitrag · NordiCHI 2026 (ACM)",
+        "team": "D. Schacht, J.-H. Schröder, J. Proksch, T. Breier, L. Reil, H.-C. Jetter",
+        "scope": "Proceedings of NordiCHI 2026 (ACM)",
+        "teaser": "Qualitative Feldstudie auf einem Campus-Gelände zu Nutzer-Herausforderungen bei Übergängen zwischen Realität, AR & VR in realistischen Alltagssituationen.",
+        "problem": "Forschung zu Transitional Interfaces untersucht häufig räumlich begrenzte Laborumgebungen, wodurch unklar bleibt, wie sich Interaktions-Herausforderungen in realistischen, mobilen und öffentlichen Kontexten auswirken.",
+        "method": "Qualitative Nutzerstudie (N = 18) entlang einer öffentlichen Campus-Route mit 13 Transitions zwischen Realität, AR und VR, jeweils in zwei Designvarianten umgesetzt, sowie systematische Analyse der Challenge-Profiles und Evaluierung von Entry Cues, Transition Techniques und Arrival Cues.",
+        "result": "Validierung von 4 bekannten Reibungs-Kategorien (räumliche Disorientierung, Fear of the Unknown, soziales Unbehagen, körperliche Belastung) und Entdeckung einer neuen Kategorie »Funktionale Unsicherheit«, sowie Einführung des Designprinzips der »Challenge-Profile Calibration«.",
+        "citation": "Schacht, D., Schröder, J.-H., Proksch, J., Breier, T., Reil, L., Jetter, H.-C. (2026). A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces. In Proceedings of NordiCHI 2026. ACM, New York, NY, USA. https://doi.org/10.1145/3829807.3829911",
+        "links": [
+          {
+            "label": "ACM Digital Library",
+            "url": "https://dl.acm.org/doi/10.1145/3829807.3829911"
+          }
+        ],
+        "metaBar": [
+          {
+            "label": "Status",
+            "value": "Veröffentlicht"
+          },
+          {
+            "label": "Venue",
+            "value": "NordiCHI 2026 (ACM)"
+          }
+        ],
+        "role": "Co-Autor · Interaktionsdesign der Cues (Konzeption und Umsetzung verschiedener Varianten), Systemumsetzung und Grafiken",
+        "goal": "Reibungspunkte über 13 verschiedene Übergänge hinweg empirisch identifizieren und mindern.",
+        "process": [],
+        "processText": "",
+        "methods": [
+          "Qualitative Nutzerstudie",
+          "Feldstudie",
+          "Challenge-Profile-Analyse",
+          "Hybrid Thematic Analysis"
+        ],
+        "sample": "N = 18 Studierende entlang einer öffentlichen Campus-Route mit 13 Transitions",
+        "architecture": "",
+        "outcome": "Vier validierte und eine neue Reibungs-Kategorie sowie das Designprinzip der »Challenge-Profile Calibration«.",
+        "finding": "Neben vier bekannten Reibungs-Kategorien zeigte sich eine neue Kategorie »Funktionale Unsicherheit«, die Laborstudien bislang nicht erfassen.",
+        "evidence": [
+          {
+            "value": "N = 18",
+            "label": "Teilnehmende"
+          },
+          {
+            "value": "13",
+            "label": "untersuchte Transitions"
+          }
+        ],
+        "awards": [],
+        "iteration": []
+      },
+      "en": {
+        "title": "A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces",
+        "tag": "Paper",
+        "kind": "Conference paper · NordiCHI 2026 (ACM)",
+        "team": "D. Schacht, J.-H. Schröder, J. Proksch, T. Breier, L. Reil, H.-C. Jetter",
+        "scope": "Proceedings of NordiCHI 2026 (ACM)",
+        "teaser": "A qualitative field study on a campus site on user challenges in transitions between reality, AR and VR in realistic everyday situations.",
+        "problem": "Research on transitional interfaces often examines spatially limited lab settings, leaving it unclear how interaction challenges play out in realistic, mobile and public contexts.",
+        "method": "A qualitative user study (N = 18) along a public campus route with 13 transitions between reality, AR and VR, each implemented in two design variants, plus systematic analysis of the challenge profiles and evaluation of entry cues, transition techniques and arrival cues.",
+        "result": "Validation of 4 known friction categories (spatial disorientation, fear of the unknown, social discomfort, physical strain), discovery of a new category, “functional uncertainty”, and introduction of the design principle of “challenge-profile calibration”.",
+        "citation": "Schacht, D., Schröder, J.-H., Proksch, J., Breier, T., Reil, L., Jetter, H.-C. (2026). A Qualitative User Study Investigating Designs to Reduce User Challenges in Cross-Reality Transitional Interfaces. In Proceedings of NordiCHI 2026. ACM, New York, NY, USA. https://doi.org/10.1145/3829807.3829911",
+        "links": [
+          {
+            "label": "ACM Digital Library",
+            "url": "https://dl.acm.org/doi/10.1145/3829807.3829911"
+          }
+        ],
+        "metaBar": [
+          {
+            "label": "Status",
+            "value": "Published"
+          },
+          {
+            "label": "Venue",
+            "value": "NordiCHI 2026 (ACM)"
+          }
+        ],
+        "role": "Co-author · interaction design of the cues (conceiving and implementing different variants), building the system and producing the graphics",
+        "goal": "Empirically identify and mitigate friction across 13 different transitions.",
+        "process": [],
+        "processText": "",
+        "methods": [
+          "Qualitative user study",
+          "Field study",
+          "Challenge-profile analysis",
+          "Hybrid thematic analysis"
+        ],
+        "sample": "N = 18 students along a public campus route with 13 transitions",
+        "architecture": "",
+        "outcome": "Four validated friction categories plus a new one, and the design principle of “challenge-profile calibration”.",
+        "finding": "Alongside four known friction categories, a new one emerged — “functional uncertainty” — which lab studies have not captured.",
+        "evidence": [
+          {
+            "value": "N = 18",
+            "label": "Participants"
+          },
+          {
+            "value": "13",
+            "label": "transitions studied"
+          }
+        ],
+        "awards": [],
+        "iteration": []
       },
       "layout": "B"
     }
